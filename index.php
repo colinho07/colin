@@ -497,7 +497,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                        Vous aurez toujours besoin d'un site web pour asseoir votre présence digitale. C'est votre quartier général en ligne, indispensable pour rassurer vos prospects, crédibiliser votre activité et centraliser toute votre communication.
                                      </p>
                                      <div class="tp-service-pp-btn pb-90">
-                                       <a href="service-details-light.html" class="tp-btn-lg tp-btn-white d-inline-block lh-0 tp-round-26 fs-15 tp-bg-common-black text-uppercase ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white tp-ff-heading fw-500">
+                                       <a href="service-1-light.php" class="tp-btn-lg tp-btn-white d-inline-block lh-0 tp-round-26 fs-15 tp-bg-common-black text-uppercase ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white tp-ff-heading fw-500">
                                           <span class="d-flex align-items-center justify-content-center">
                                              <span class="btn-text">Explore mes compétences</span>
                                              <span class="btn-icon">
