@@ -16,7 +16,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <meta name="viewport" content="width=device-width, initial-scale=1">
 
    <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.webp">
 
    <!-- CSS here -->
    <link rel="stylesheet" href="assets/css/bootstrap.css">
@@ -95,7 +95,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          <div class="tp-offcanvas-top d-flex align-items-center justify-content-between">
             <div class="tp-offcanvas-logo">
                <a href="index.html">
-                  <img data-width="150" src="assets/img/logo/logo.png" alt="logo">
+                  <img data-width="150" src="assets/img/logo/logo.webp" alt="logo">
                </a>
             </div>
             <div class="tp-offcanvas-close-btn">
@@ -207,7 +207,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <!-- tp-breadcrumb-area-start -->
             <div class="tp-breadcrumb-area pre-header tp-breadcrumb-2-spacing">
                <div class="tp-breadcrumb-thumb">
-                  <img class="w-100" src="assets/img/breadcrumb/à_propos.png" alt="">
+                  <img class="w-100" src="assets/img/breadcrumb/à_propos.webp" alt="">
                </div>
             </div>
             <!-- tp-breadcrumb-area-end -->
@@ -226,7 +226,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <div class="col-xl-3 col-lg-5">
                         <div class="tp-about-cst-thumb-wrap mb-30">
                            <div class="tp-about-cst-thumb pb-60">
-                              <img class="mr-30" src="assets/img/about/cst/connexion.png" alt="">
+                              <img class="mr-30" src="assets/img/about/cst/connexion.webp" alt="">
                            </div>
                            <div class="tp-about-expreance d-flex align-items-end mb-30">
                               <h2 class="fw-600 fs-100 tp-ff-dm p-relative d-inline-block mb-0 lh-1">5 <span class="plus fs-25">+</span></h2>
@@ -300,10 +300,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <div class="col-xl-5">
                         <div class="tp-about-cst-list-wrap ml-30 p-relative mb-30">
                            <div class="tp-about-cst-list-thumb text-end fix ml-150 tp-round-20">
-                              <img data-speed="0.9" class="tp-round-20" src="assets/img/about/cst/travaillons-ensemble.png" alt="">
+                              <img data-speed="0.9" class="tp-round-20" src="assets/img/about/cst/travaillons-ensemble.webp" alt="">
                            </div>
                            <div class="tp-about-cst-list tp-bg-common-green-2 tp-round-8 d-inline-block" data-speed="0.9">
-                              <img class="w-100" src="assets/img/about/cst/graph.png" alt="">
+                              <img class="w-100" src="assets/img/about/cst/graph.webp" alt="">
                               <div class="tp-about-cst-list-inner">
                                  <h4 class="tp-text-common-black tp-ff-dm fw-600 fs-18 mb-5">Travaillons ensemble</h4>
                                  <ul>
@@ -406,7 +406,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="row gx-0">
                      <div class="col-lg-6">
                         <div class="tp-about-feature-thumb h-100">
-                           <img class="w-100" src="assets/img/about/consulting/boite-a-outils.png" alt="">
+                           <img class="w-100" src="assets/img/about/consulting/boite-a-outils.webp" alt="">
                         </div>
                      </div>
                      <div class="col-lg-6">
@@ -491,7 +491,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  <div class="swiper-slide">
                                     <div class="tp-service-cst-item p-relative">
                                        <div class="tp-service-cst-thumb">
-                                          <img class="w-100" src="assets/img/service/cst/Granville.png" alt="">
+                                          <img class="w-100" src="assets/img/service/cst/Granville.webp" alt="">
                                        </div>
                                        <div class="tp-service-cst-content tp-bg-common-white">
                                           <h5 class="fw-600 fs-28 tp-ff-dm tp-text-common-black mb-15"><a class="underline-black" href="service-details-2-light.html">Granville</a></h5>
@@ -503,7 +503,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  <div class="swiper-slide">
                                     <div class="tp-service-cst-item p-relative">
                                        <div class="tp-service-cst-thumb">
-                                          <img class="w-100" src="assets/img/service/cst/Saint-Lô.png" alt="">
+                                          <img class="w-100" src="assets/img/service/cst/Saint-Lô.webp" alt="">
                                        </div>
                                        <div class="tp-service-cst-content tp-bg-common-white">
                                           <h5 class="fw-600 fs-28 tp-ff-dm tp-text-common-black mb-15"><a class="underline-black" href="service-details-2-light.html">Saint-Lô</a></h5>
@@ -515,7 +515,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  <div class="swiper-slide">
                                     <div class="tp-service-cst-item p-relative">
                                        <div class="tp-service-cst-thumb">
-                                          <img class="w-100" src="assets/img/service/cst/Caen.png" alt="">
+                                          <img class="w-100" src="assets/img/service/cst/Caen.webp" alt="">
                                        </div>
                                        <div class="tp-service-cst-content tp-bg-common-white">
                                           <h5 class="fw-600 fs-28 tp-ff-dm tp-text-common-black mb-15"><a class="underline-black" href="service-details-2-light.html">Caen</a></h5>
@@ -534,7 +534,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="row">
                      <div class="col-lg-5">
                         <div class="tp-service-cst-shape mb-40 d-none d-lg-block tp_fade_anim" data-delay=".4" data-fade-from="left" data-ease="bounce">
-                           <img src="assets/img/service/cst/shape-2.png" alt="">
+                           <img src="assets/img/service/cst/shape-2.webp" alt="">
                         </div>
                      </div>
                      <div class="col-lg-7">
@@ -672,7 +672,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <!-- tp-banner-area-start -->
             <!-- <div class="tp-banner-area tp-banner-cst-spacing scale-up-img p-relative z-index-1 fix">
                <div class="tp-video-thumb">
-                  <img data-speed="0.4" class="img-cover scale-up" src="assets/img/banner/cst/reseaux-sociaux.png" alt="">
+                  <img data-speed="0.4" class="img-cover scale-up" src="assets/img/banner/cst/reseaux-sociaux.webp" alt="">
                </div>
                <div class="tp-cta-wd-shape">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 705 509" fill="none">
@@ -752,63 +752,63 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               <div class="swiper-slide">
                                  <div class="tp-brand-item">
                                     <a href="#">
-                                       <img src="assets/img/brands/logo.png" alt="">
+                                       <img src="assets/img/brands/logo.webp" alt="">
                                     </a>
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="tp-brand-item">
                                     <a href="#">
-                                       <img src="assets/img/brands/logo-2.png" alt="">
+                                       <img src="assets/img/brands/logo-2.webp" alt="">
                                     </a>
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="tp-brand-item">
                                     <a href="#">
-                                       <img src="assets/img/brands/logo-3.png" alt="">
+                                       <img src="assets/img/brands/logo-3.webp" alt="">
                                     </a>
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="tp-brand-item">
                                     <a href="#">
-                                       <img src="assets/img/brands/logo-4.png" alt="">
+                                       <img src="assets/img/brands/logo-4.webp" alt="">
                                     </a>
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="tp-brand-item">
                                     <a href="#">
-                                       <img src="assets/img/brands/logo-5.png" alt="">
+                                       <img src="assets/img/brands/logo-5.webp" alt="">
                                     </a>
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="tp-brand-item">
                                     <a href="#">
-                                       <img src="assets/img/brands/logo-3.png" alt="">
+                                       <img src="assets/img/brands/logo-3.webp" alt="">
                                     </a>
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="tp-brand-item">
                                     <a href="#">                                
-                                       <img src="assets/img/brands/logo-4.png" alt="">
+                                       <img src="assets/img/brands/logo-4.webp" alt="">
                                     </a>
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="tp-brand-item">
                                     <a href="#">
-                                       <img src="assets/img/brands/logo-5.png" alt="">
+                                       <img src="assets/img/brands/logo-5.webp" alt="">
                                     </a>
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="tp-brand-item">
                                     <a href="#">
-                                       <img src="assets/img/brands/logo-3.png" alt="">
+                                       <img src="assets/img/brands/logo-3.webp" alt="">
                                     </a>
                                  </div>
                               </div>

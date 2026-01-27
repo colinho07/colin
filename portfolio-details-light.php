@@ -16,7 +16,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <meta name="viewport" content="width=device-width, initial-scale=1">
 
    <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.webp">
 
    <!-- CSS here -->
    <link rel="stylesheet" href="assets/css/bootstrap.css">
@@ -104,7 +104,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="col-lg-12">
                <div class="tp-search-top d-flex justify-content-between align-items-center">
                   <div class="cm-search-logo">
-                     <a href="index.html"><img data-width="150" src="assets/img/logo/logo.png" alt="logo"></a>
+                     <a href="index.html"><img data-width="150" src="assets/img/logo/logo.webp" alt="logo"></a>
                   </div>
                   <button class="tp-search-close">
                      <i class="fa-light fa-xmark"></i>
@@ -137,7 +137,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          <div class="tp-offcanvas-top d-flex align-items-center justify-content-between">
             <div class="tp-offcanvas-logo">
                <a href="index.html">
-                  <img data-width="150" src="assets/img/logo/logo.png" alt="logo">
+                  <img data-width="150" src="assets/img/logo/logo.webp" alt="logo">
                </a>
             </div>
             <div class="tp-offcanvas-close-btn">
@@ -254,7 +254,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="tp-service-hero-left p-relative z-index-1 mb-40">
                            <h2 class="fs-70 fs-lg-60 fs-xs-40">Site Web :<br> LE BAR ET VOUS</h2>
                            <div class="tp-service-details-icon">
-                              <img class="tp-live-anim-spin" src="assets/img/breadcrumb/icon.png" alt="">
+                              <img class="tp-live-anim-spin" src="assets/img/breadcrumb/icon.webp" alt="">
                            </div>
                            <span class="tp-service-hero-shape tpswing d-none d-sm-inline-block">
                               <svg width="52" height="94" viewBox="0 0 52 94" fill="none" xmlns="http://www.w3.org/2000/svg">

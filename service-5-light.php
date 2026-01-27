@@ -17,7 +17,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <meta name="viewport" content="width=device-width, initial-scale=1">
 
    <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.webp">
 
    <!-- CSS here -->
    <link rel="stylesheet" href="assets/css/bootstrap.css">
@@ -96,7 +96,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          <div class="tp-offcanvas-top d-flex align-items-center justify-content-between">
             <div class="tp-offcanvas-logo">
                <a href="index.html">
-                  <img data-width="150" src="assets/img/logo/logo.png" alt="logo">
+                  <img data-width="150" src="assets/img/logo/logo.webp" alt="logo">
                </a>
             </div>
             <div class="tp-offcanvas-close-btn">
@@ -252,7 +252,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
             <!-- tp-breadcrumb-banner-area-start -->
             <div class="tp-breadcrumb-banner pre-header">
-               <img src="assets/img/breadcrumb/3d.png" alt="">
+               <img src="assets/img/breadcrumb/3d.webp" alt="">
             </div>
             <!-- tp-breadcrumb-banner-area-end -->
 
@@ -272,19 +272,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <div class="tp-portfolio-cst-sales-wrap fix p-relative h-100">
                               <div class="tp-portfolio-cst-img-wrapper image-container ">
                                  <div class="hover-image active">
-                                    <img class="thumb" src="assets/img/portfolio/cst/packshot.png" alt="Service Image">
+                                    <img class="thumb" src="assets/img/portfolio/cst/packshot.webp" alt="Service Image">
                                  </div>
                                  <div class="hover-image">
-                                    <img class="thumb" src="assets/img/portfolio/cst/mouvement.png" alt="Service Image">
+                                    <img class="thumb" src="assets/img/portfolio/cst/mouvement.webp" alt="Service Image">
                                  </div>
                                  <div class="hover-image">
-                                    <img class="thumb" src="assets/img/portfolio/cst/interface.png" alt="Service Image">
+                                    <img class="thumb" src="assets/img/portfolio/cst/interface.webp" alt="Service Image">
                                  </div>
                                  <div class="hover-image">
-                                    <img class="thumb" src="assets/img/portfolio/cst/scénographie.png" alt="Service Image">
+                                    <img class="thumb" src="assets/img/portfolio/cst/scénographie.webp" alt="Service Image">
                                  </div>
                                  <div class="hover-image">
-                                    <img class="thumb" src="assets/img/portfolio/cst/immersion.png" alt="Service Image">
+                                    <img class="thumb" src="assets/img/portfolio/cst/immersion.webp" alt="Service Image">
                                  </div>
                               </div>
                            </div>
@@ -292,7 +292,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-7 mb-40">
                         <div class="tp-portfolio-cst-list-wrap pt-10 ml-40">
-                           <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center active"  data-img="assets/img/portfolio/cst/packshot.png">
+                           <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center active"  data-img="assets/img/portfolio/cst/packshot.webp">
                               <div class="tp-portfolio-cst-text mb-15">
                                  <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-dm d-inline-block tp-bg-common-white-2">Packshot</span>
                                  <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-dm"><a href="service-details-2-light.html">Sublimer vos produits</a></h4>
@@ -303,7 +303,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  </svg>
                               </a>
                            </div>
-                           <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center"  data-img="assets/img/portfolio/cst/mouvement.png">
+                           <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center"  data-img="assets/img/portfolio/cst/mouvement.webp">
                               <div class="tp-portfolio-cst-text mb-15">
                                  <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-dm d-inline-block tp-bg-common-white-2">Motion 3D</span>
                                  <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-dm"><a href="service-details-2-light.html">Créer le mouvement</a></h4>
@@ -314,7 +314,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  </svg>
                               </a>
                            </div>
-                           <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center"  data-img="assets/img/portfolio/cst/interface.png">
+                           <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center"  data-img="assets/img/portfolio/cst/interface.webp">
                               <div class="tp-portfolio-cst-text mb-15">
                                  <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-dm d-inline-block tp-bg-common-white-2">Web Design</span>
                                  <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-dm"><a href="service-details-2-light.html">Dynamiser vos interfaces</a></h4>
@@ -325,7 +325,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  </svg>
                               </a>
                            </div>
-                           <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center"  data-img="assets/img/portfolio/cst/scénographie.png">
+                           <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center"  data-img="assets/img/portfolio/cst/scénographie.webp">
                               <div class="tp-portfolio-cst-text mb-15">
                                  <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-dm d-inline-block tp-bg-common-white-2">Set Design</span>
                                  <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-dm"><a href="service-details-2-light.html">Scénographier vos univers</a></h4>
@@ -336,7 +336,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  </svg>
                               </a>
                            </div>
-                           <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center"  data-img="assets/img/portfolio/cst/immersion.png">
+                           <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center"  data-img="assets/img/portfolio/cst/immersion.webp">
                               <div class="tp-portfolio-cst-text mb-15">
                                  <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-dm d-inline-block tp-bg-common-white-2">Web & Interactif</span>
                                  <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-dm"><a href="service-details-2-light.html">L'immersion digitale</a></h4>
@@ -445,10 +445,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            </span>
                            <div class="d-flex justify-content-center">
                               <div class="tp-banner-cst-widget p-relative">
-                                 <img class="tp-banner-cst-shape" src="assets/img/banner/cst/shape.png" alt="">
+                                 <img class="tp-banner-cst-shape" src="assets/img/banner/cst/shape.webp" alt="">
                                  <div class="tp-banner-cst-logo-wrap text-center">
                                     <div class="tp-banner-cst-logo">
-                                       <a href="index.html"><img data-width="125" src="assets/img/logo/logo-white-2.png" alt=""></a>
+                                       <a href="index.html"><img data-width="125" src="assets/img/logo/logo-white-2.webp" alt=""></a>
                                     </div>
                                     <p class="tp-ff-dm fw-500 fs-18 tp-text-grey-5 ls-m-2 lh-1 mb-10">Supper Services <br> award</p>
                                     <a href="portfolio-details-two-light.html" class="tp-banner-cst-logo-btn tp-left-right">
@@ -528,7 +528,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               </svg>
                            </span>
                            <div class="tp-process-pp-video-inner tp-process-it-wrap p-relative d-inline-block">
-                              <img class="tp-process-pp-video-img" src="assets/img/process/it/thumb.png" alt="">
+                              <img class="tp-process-pp-video-img" src="assets/img/process/it/thumb.webp" alt="">
                               <div class="tp-video-main tp-process-it-video">
                                  <a class="tp-hero-video-btn popup-video" href="https://www.youtube.com/watch?v=go7QYaQR494">
                                     <span>

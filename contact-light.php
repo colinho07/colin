@@ -16,7 +16,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <meta name="viewport" content="width=device-width, initial-scale=1">
 
    <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.webp">
 
    <!-- CSS here -->
    <link rel="stylesheet" href="assets/css/bootstrap.css">
@@ -103,7 +103,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="col-lg-12">
                <div class="tp-search-top d-flex justify-content-between align-items-center">
                   <div class="cm-search-logo">
-                     <a href="index.html"><img data-width="150" src="assets/img/logo/logo.png" alt="logo"></a>
+                     <a href="index.html"><img data-width="150" src="assets/img/logo/logo.webp" alt="logo"></a>
                   </div>
                   <button class="tp-search-close">
                      <i class="fa-light fa-xmark"></i>
@@ -136,7 +136,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          <div class="tp-offcanvas-top d-flex align-items-center justify-content-between">
             <div class="tp-offcanvas-logo">
                <a href="index.html">
-                  <img data-width="150" src="assets/img/logo/logo.png" alt="logo">
+                  <img data-width="150" src="assets/img/logo/logo.webp" alt="logo">
                </a>
             </div>
             <div class="tp-offcanvas-close-btn">
@@ -280,7 +280,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               </div> -->
                            </div>
                            <div class="tp-postbox-details-form-wrapper tp-contact-form tp-bg-common-white-2 p-relative z-index-1">
-                              <img class="tp-contact-shape" src="assets/img/contact/shape.png" alt="">
+                              <img class="tp-contact-shape" src="assets/img/contact/shape.webp" alt="">
                               <form id="contact-form" action="assets/mail.php" method="POST">
                                  <div class="row">
                                     <div class="col-xl-6">

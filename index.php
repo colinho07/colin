@@ -16,7 +16,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <meta name="viewport" content="width=device-width, initial-scale=1">
 
    <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.webp">
 
    <!-- CSS here -->
    <link rel="stylesheet" href="assets/css/bootstrap.css">
@@ -97,7 +97,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          <div class="tp-offcanvas-top d-flex align-items-center justify-content-between">
             <div class="tp-offcanvas-logo">
                <a href="index.html">
-                  <img data-width="150" src="assets/img/logo/logo.png" alt="logo">
+                  <img data-width="150" src="assets/img/logo/logo.webp" alt="logo">
                </a>
             </div>
             <div class="tp-offcanvas-close-btn">
@@ -234,7 +234,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <div class="tp-hero-pp-title-wrap mb-120">
                               <span class="tp-ff-heading fw-500 fs-35 fs-xs-25 tp-text-common-black d-inline-block mb-35">Je m’appelle Colin et je suis,</span>
                               <h2 class="tp-hero-pp-title fw-500 fs-100 fs-xl-80 fs-lg-70 fs-xs-40 lh-1 text-uppercase mb-45">Graphiste <br>
-                                <img src="assets/img/hero/pp/bg.png" alt=""> Designer.</h2>
+                                <img src="assets/img/hero/pp/bg.webp" alt=""> Designer.</h2>
                               <p class="tp-hero-pp-para tp-ff-heading fw-500 fs-25 tp-text-grey-1 lh-130-per">J’imagine et je réalise vos projets sur tous supports :<br> print, web, vidéo et réseaux sociaux.</p>
                            </div>
                            <span class="tp-ff-heading fw-500 fs-18 tp-text-common-black mb-10 d-inline-block">Prêt pour une collaboration ?</span>
@@ -262,7 +262,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-4 mb-40">
                         <div class="tp-hero-pp-thumb fix">
-                           <img data-speed="0.9" src="assets/img/hero/pp/moi.png" alt="">
+                           <img data-speed="0.9" src="assets/img/hero/pp/moi.webp" alt="">
                         </div>
                      </div>
                   </div>
@@ -395,7 +395,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <div class="tp-portfolio-2-item mb-65 tp-panel-pin tp-bg-common-white">
                               <div class="not-hide-cursor" data-cursor="Explorer">
                                  <a href="portfolio-details-light.html" class="d-block tp-portfolio-2-thumb mb-20 cursor-hide">
-                                    <img class="w-100" src="assets/img/portfolio/pp/LE_BAR_ET_VOUS_COVER.png" alt="">
+                                    <img class="w-100" src="assets/img/portfolio/pp/LE_BAR_ET_VOUS_COVER.webp" alt="">
                                  </a>
                               </div>
                               <div class="tp-portfolio-2-content tp-portfolio-pp-content d-flex justify-content-between align-items-start">
@@ -413,7 +413,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <div class="tp-portfolio-2-item mb-65 tp-panel-pin tp-bg-common-white">
                               <div class="not-hide-cursor" data-cursor="Explorer">
                                  <a href="portfolio-details-light.html" class="d-block tp-portfolio-2-thumb mb-20 cursor-hide">
-                                    <img class="w-100" src="assets/img/portfolio/pp/DELAMARCHE_COVER.png" alt="">
+                                    <img class="w-100" src="assets/img/portfolio/pp/DELAMARCHE_COVER.webp" alt="">
                                  </a>
                               </div>
                               <div class="tp-portfolio-2-content tp-portfolio-pp-content d-flex justify-content-between align-items-start">
@@ -431,7 +431,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <div class="tp-portfolio-2-item mb-65 tp-panel-pin tp-bg-common-white">
                               <div class="not-hide-cursor" data-cursor="Explorer">
                                  <a href="portfolio-details-light.html" class="d-block tp-portfolio-2-thumb mb-20 cursor-hide">
-                                    <img class="w-100" src="assets/img/portfolio/pp/CULTIO_COVER.png" alt="">
+                                    <img class="w-100" src="assets/img/portfolio/pp/CULTIO_COVER.webp" alt="">
                                  </a>
                               </div>
                               <div class="tp-portfolio-2-content tp-portfolio-pp-content d-flex justify-content-between align-items-start">
@@ -522,7 +522,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                              </div>
                              <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                  <div class="tp-service-pp-thumb text-end">
-                                    <img class="tp_fade_anim" data-fade-from="right" data-delay=".2" src="assets/img/service/pp/sites-web.png" alt="">
+                                    <img class="tp_fade_anim" data-fade-from="right" data-delay=".2" src="assets/img/service/pp/sites-web.webp" alt="">
                                  </div>
                              </div>
                          </div>
@@ -566,7 +566,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                              </div>
                              <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                  <div class="tp-service-pp-thumb text-end">
-                                    <img class="tp_fade_anim" data-fade-from="right" data-delay=".2" src="assets/img/service/pp/identité-visuelle.png" alt="">
+                                    <img class="tp_fade_anim" data-fade-from="right" data-delay=".2" src="assets/img/service/pp/identité-visuelle.webp" alt="">
                                  </div>
                              </div>
                          </div>
@@ -610,7 +610,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                              </div>
                              <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                  <div class="tp-service-pp-thumb text-end">
-                                    <img class="tp_fade_anim" data-fade-from="right" data-delay=".2" src="assets/img/service/pp/montage-photo-vidéo.png" alt="">
+                                    <img class="tp_fade_anim" data-fade-from="right" data-delay=".2" src="assets/img/service/pp/montage-photo-vidéo.webp" alt="">
                                  </div>
                              </div>
                          </div>
@@ -654,7 +654,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                              </div>
                              <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
                                  <div class="tp-service-pp-thumb text-end">
-                                    <img class="tp_fade_anim" data-fade-from="right" data-delay=".2" src="assets/img/service/pp/motion-3D.png" alt="">
+                                    <img class="tp_fade_anim" data-fade-from="right" data-delay=".2" src="assets/img/service/pp/motion-3D.webp" alt="">
                                  </div>
                              </div>
                          </div>
@@ -688,7 +688,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 </svg>
                                              </span>
                                              <div class="qoute-img">
-                                                <img class="rounded-circle" src="assets/img/testimonial/sa/avatar.png" alt="">
+                                                <img class="rounded-circle" src="assets/img/testimonial/sa/avatar.webp" alt="">
                                              </div>
                                           </div>
                                           <div>
@@ -709,7 +709,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 </svg>
                                              </span>
                                              <div class="qoute-img">
-                                                <img class="rounded-circle" src="assets/img/testimonial/sa/avatar-3.png" alt="">
+                                                <img class="rounded-circle" src="assets/img/testimonial/sa/avatar-3.webp" alt="">
                                              </div>
                                           </div>
                                           <div>
@@ -730,7 +730,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 </svg>
                                              </span>
                                              <div class="qoute-img">
-                                                <img class="rounded-circle" src="assets/img/testimonial/sa/avatar-4.png" alt="">
+                                                <img class="rounded-circle" src="assets/img/testimonial/sa/avatar-4.webp" alt="">
                                              </div>
                                           </div>
                                           <div>
@@ -812,7 +812,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
             <!-- tp-process-area-start -->
             <div class="tp-process-area pt-110 pb-100 tp-bg-common-black p-relative z-index-1">
-               <img class="tp-awards-bg-shape" src="assets/img/awards/grid-shape.png" alt="">
+               <img class="tp-awards-bg-shape" src="assets/img/awards/grid-shape.webp" alt="">
                <div class="container">
                   <div class="row">
                      <div class="col-lg-5">
@@ -824,7 +824,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  </svg>
                               </span>
                               <div class="tp-process-pp-video-inner p-relative d-inline-block">
-                                 <img class="tp-process-pp-video-img" src="assets/img/process/pp/processus.png" alt="">
+                                 <img class="tp-process-pp-video-img" src="assets/img/process/pp/processus.webp" alt="">
                                  <div class="tp-video-main tp-process-pp-video">
                                     <a class="tp-hero-video-btn popup-video" href="https://www.youtube.com/watch?v=go7QYaQR494">
                                        <span>
@@ -924,7 +924,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="tp-blog-item tp--hover-item tp-blog-pp-item mb-40 tp_fade_anim" data-delay=".4" data-fade-from="left" data-ease="bounce">
                            <a href="blog-details-light.html" class="tp-blog-thumb d-block mb-30 p-relative fix d-inline-block">
                               <div class="tp--hover-img" data-displacement="assets/img/imghover/fluid.jpg" data-intensity="0.2" data-speedin="1" data-speedout="1">
-                                 <img class="w-100" src="assets/img/blog/pp/uxui.png" alt="">
+                                 <img class="w-100" src="assets/img/blog/pp/uxui.webp" alt="">
                               </div>
                            </a>
                            <div class="tp-blog-content text-center">
@@ -942,7 +942,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="tp-blog-item tp--hover-item tp-blog-pp-item mb-40 tp_fade_anim" data-delay=".4" data-fade-from="bottom" data-ease="bounce">
                            <a href="blog-details-light.html" class="tp-blog-thumb d-block mb-30 p-relative fix d-inline-block">
                               <div class="tp--hover-img" data-displacement="assets/img/imghover/fluid.jpg" data-intensity="0.2" data-speedin="1" data-speedout="1">
-                                 <img class="w-100" src="assets/img/blog/pp/outil.png" alt="">
+                                 <img class="w-100" src="assets/img/blog/pp/outil.webp" alt="">
                               </div>
                            </a>
                            <div class="tp-blog-content text-center">
@@ -960,7 +960,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="tp-blog-item tp--hover-item tp-blog-pp-item mb-40 tp_fade_anim" data-delay=".4" data-fade-from="right" data-ease="bounce">
                            <a href="blog-details-light.html" class="tp-blog-thumb d-block mb-30 p-relative fix d-inline-block">
                               <div class="tp--hover-img" data-displacement="assets/img/imghover/fluid.jpg" data-intensity="0.2" data-speedin="1" data-speedout="1">
-                                 <img class="w-100" src="assets/img/blog/pp/3d.png" alt="">
+                                 <img class="w-100" src="assets/img/blog/pp/3d.webp" alt="">
                               </div>
                            </a>
                            <div class="tp-blog-content text-center">

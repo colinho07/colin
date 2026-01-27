@@ -16,7 +16,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <meta name="viewport" content="width=device-width, initial-scale=1">
 
    <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.webp">
 
    <!-- CSS here -->
    <link rel="stylesheet" href="assets/css/bootstrap.css">
@@ -98,7 +98,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="col-lg-12">
                <div class="tp-search-top d-flex justify-content-between align-items-center">
                   <div class="cm-search-logo">
-                     <a href="index.html"><img data-width="150" src="assets/img/logo/logo.png" alt="logo"></a>
+                     <a href="index.html"><img data-width="150" src="assets/img/logo/logo.webp" alt="logo"></a>
                   </div>
                   <button class="tp-search-close">
                      <i class="fa-light fa-xmark"></i>
@@ -131,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          <div class="tp-offcanvas-top d-flex align-items-center justify-content-between">
             <div class="tp-offcanvas-logo">
                <a href="index.html">
-                  <img data-width="150" src="assets/img/logo/logo.png" alt="logo">
+                  <img data-width="150" src="assets/img/logo/logo.webp" alt="logo">
                </a>
             </div>
             <div class="tp-offcanvas-close-btn">
@@ -286,7 +286,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
             <!-- tp-banner-area-start -->
             <div class="tp-about-me-banner scale-up-img">
-               <img class="img-cover scale-up" data-speed="0.4" src="assets/img/breadcrumb/services-sites_web.png" alt="">
+               <img class="img-cover scale-up" data-speed="0.4" src="assets/img/breadcrumb/services-sites_web.webp" alt="">
             </div>
             <!-- tp-banner-area-end -->
 
@@ -298,7 +298,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="tp-service-title-wrap mb-45">
                            <span class="tp-section-subtitle tp-ff-heading fw-500 tp-text-common-black fs-16 mb-80 tp_fade_anim" data-delay=".3"><span class="borders d-inline-block"></span>Impact</span>
                            <div class="d-sm-flex align-items-start tp_fade_anim" data-delay=".5">
-                              <img class="mr-40 tp-service-shape" src="assets/img/service/shapes.png" alt="">
+                              <img class="mr-40 tp-service-shape" src="assets/img/service/shapes.webp" alt="">
                               <p class="tp-ff-heading fs-25 fw-500 tp-text-grey-1 tp-service-para">Je construis votre site web comme un outil stratégique. Mon approche : un design unique pour une croissance et une efficacité maximales.</p>
                            </div>
                         </div>
@@ -310,7 +310,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-4 col-md-6">
                         <div class="tp-service-item p-relative mb-30 tp_fade_anim" data-delay=".6" data-fade-from="left">
-                           <img class="tp-service-item-bg" src="assets/img/service/grid-shape.png" alt="">
+                           <img class="tp-service-item-bg" src="assets/img/service/grid-shape.webp" alt="">
                            <h4 class="tp-service-item-title">La Stratégie</h4>
                            <ul>
                               <li><a href="service-details-light.html">Stratégie UX claire</a></li>
@@ -323,7 +323,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-4 col-md-6">
                         <div class="tp-service-item p-relative mb-30 tp_fade_anim" data-delay=".7" data-fade-from="left">
-                           <img class="tp-service-item-bg" src="assets/img/service/grid-shape.png" alt="">
+                           <img class="tp-service-item-bg" src="assets/img/service/grid-shape.webp" alt="">
                            <h4 class="tp-service-item-title">Les Livrables</h4>
                            <ul>
                               <li><a href="service-details-light.html">Prototypes interactifs Figma</a></li>
@@ -337,7 +337,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-4 col-md-6">
                         <div class="tp-service-item p-relative mb-30 tp_fade_anim" data-delay=".8" data-fade-from="left">
-                           <img class="tp-service-item-bg" src="assets/img/service/grid-shape.png" alt="">
+                           <img class="tp-service-item-bg" src="assets/img/service/grid-shape.webp" alt="">
                            <h4 class="tp-service-item-title">La Mesure (KPI)</h4>
                            <ul>
                               <li><a href="service-details-light.html">Taux de conversion (Objectif)</a></li>
@@ -541,7 +541,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <!-- tp-video-area-start -->
             <div class="tp-video-area tp-video-spacing p-relative z-index-1 fix">
                <div class="tp-video-thumb scale-up-img">
-                  <img class="img-cover scale-up" data-speed="0.4" src="assets/img/video/vidéo-sites_web.png" alt="">
+                  <img class="img-cover scale-up" data-speed="0.4" src="assets/img/video/vidéo-sites_web.webp" alt="">
                </div>
                <div class="container">
                   <div class="row">

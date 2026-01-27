@@ -16,7 +16,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <meta name="viewport" content="width=device-width, initial-scale=1">
 
    <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.webp">
 
    <!-- CSS here -->
    <link rel="stylesheet" href="assets/css/bootstrap.css">
@@ -108,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="col-lg-12">
                <div class="tp-search-top d-flex justify-content-between align-items-center">
                   <div class="cm-search-logo">
-                     <a href="index.html"><img data-width="150" src="assets/img/logo/logo.png" alt="logo"></a>
+                     <a href="index.html"><img data-width="150" src="assets/img/logo/logo.webp" alt="logo"></a>
                   </div>
                   <button class="tp-search-close">
                      <i class="fa-light fa-xmark"></i>
@@ -141,7 +141,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          <div class="tp-offcanvas-top d-flex align-items-center justify-content-between">
             <div class="tp-offcanvas-logo">
                <a href="index.html">
-                  <img data-width="150" src="assets/img/logo/logo.png" alt="logo">
+                  <img data-width="150" src="assets/img/logo/logo.webp" alt="logo">
                </a>
             </div>
             <div class="tp-offcanvas-close-btn">
@@ -296,7 +296,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
             <!-- tp-banner-area-start -->
             <div class="tp-about-me-banner scale-up-img">
-               <img class="img-cover scale-up" data-speed="0.4" src="assets/img/breadcrumb/services-identité_visuelle.png" alt="About Thumbnail">
+               <img class="img-cover scale-up" data-speed="0.4" src="assets/img/breadcrumb/services-identité_visuelle.webp" alt="About Thumbnail">
             </div>
             <!-- tp-banner-area-end -->
 
@@ -671,7 +671,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <path d="M22.2325 16.2511C21.8909 18.3984 19.2068 20.6921 17.1082 20.7409C16.9618 20.7409 16.8154 20.7898 16.7178 20.8874C16.6202 20.9362 16.5226 20.985 16.4738 21.1314C15.7418 22.4978 16.1322 23.5715 17.3522 24.45C18.7675 25.4748 21.0125 24.45 22.1349 23.5227C24.9655 21.1802 27.8448 17.1296 27.6984 13.2741C28.1865 10.6875 28.0888 7.90583 27.3568 5.61211C26.8688 4.14802 25.4535 3.41598 23.9894 3.31838C22.5253 3.22069 19.4996 2.78155 18.1819 3.65992C16.8642 4.53845 16.7666 6.24654 16.6202 7.71054C16.4738 9.32103 16.0346 12.3469 17.4011 13.6158C18.7675 14.8358 22.6717 13.5181 22.2325 16.2511ZM6.12762 16.2511C5.78601 18.3984 3.10194 20.6921 1.00334 20.7409C0.856932 20.7409 0.710524 20.7898 0.612919 20.8874C0.515234 20.9362 0.417707 20.985 0.368824 21.1314C-0.363216 22.4978 0.0272045 23.5715 1.24727 24.45C2.66255 25.4748 4.90748 24.45 6.03002 23.5227C8.86057 21.1802 11.7399 17.1295 11.5935 13.2741C12.0816 10.6875 11.9839 7.90583 11.252 5.61211C10.764 4.14802 9.34868 3.41598 7.88452 3.31838C6.42044 3.22069 3.39467 2.78155 2.077 3.65992C0.759405 4.53845 0.661722 6.24654 0.515314 7.71054C0.368906 9.32103 -0.0703201 12.3469 1.29616 13.6158C2.66263 14.8358 6.61565 13.5181 6.12762 16.2511Z" fill="white" />
                                              </svg>
                                           </span>
-                                          <img class="rounded-circle" src="assets/img/testimonial/sa/avatar.png" alt="">
+                                          <img class="rounded-circle" src="assets/img/testimonial/sa/avatar.webp" alt="">
                                        </div>
                                        <div>
                                           <h5 class="fw-500 fs-25 mb-0">Marc Durand</h5>

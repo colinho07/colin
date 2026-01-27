@@ -16,7 +16,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <meta name="viewport" content="width=device-width, initial-scale=1">
 
    <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.webp">
 
    <!-- CSS here -->
    <link rel="stylesheet" href="assets/css/bootstrap.css">
@@ -97,7 +97,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          <div class="tp-offcanvas-top d-flex align-items-center justify-content-between">
             <div class="tp-offcanvas-logo">
                <a href="index.html">
-                  <img data-width="150" src="assets/img/logo/logo.png" alt="logo">
+                  <img data-width="150" src="assets/img/logo/logo.webp" alt="logo">
                </a>
             </div>
             <div class="tp-offcanvas-close-btn">
@@ -216,7 +216,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     
                                     <!-- Slide Item -->
                                     <div class="swiper-slide">
-                                        <div class="tp-portfolio-creative-item bg-position" data-background="assets/img/portfolio/mix/sites_web.png">
+                                        <div class="tp-portfolio-creative-item bg-position" data-background="assets/img/portfolio/mix/sites_web.webp">
                                             <div class="tp-portfolio-creative-content">
                                                 <span class="tp-portfolio-slicer-category">SERVICES</span>
                                                 <h2 class="tp-portfolio-slicer-title"><a href="portfolio-details-creative-light.html">Sites Web</a></h2>
@@ -227,7 +227,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <!-- Slide Item -->
                                     <div class="swiper-slide">
-                                        <div class="tp-portfolio-creative-item bg-position" data-background="assets/img/portfolio/mix/identité_visuelle.png">
+                                        <div class="tp-portfolio-creative-item bg-position" data-background="assets/img/portfolio/mix/identité_visuelle.webp">
                                             <div class="tp-portfolio-creative-content">
                                                 <span class="tp-portfolio-slicer-category">SERVICES</span>
                                                 <h2 class="tp-portfolio-slicer-title"><a href="portfolio-details-creative-light.html">Identité Visuelle</a></h2>
@@ -238,7 +238,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <!-- Slide Item -->
                                     <div class="swiper-slide">
-                                        <div class="tp-portfolio-creative-item bg-position" data-background="assets/img/portfolio/mix/montage_photo_vidéo.png">
+                                        <div class="tp-portfolio-creative-item bg-position" data-background="assets/img/portfolio/mix/montage_photo_vidéo.webp">
                                             <div class="tp-portfolio-creative-content">
                                                 <span class="tp-portfolio-slicer-category">SERVICES</span>
                                                 <h2 class="tp-portfolio-slicer-title"><a href="portfolio-details-creative-light.html">Montage Photo & Vidéo</a></h2>
@@ -249,7 +249,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                     <!-- Slide Item -->
                                     <div class="swiper-slide">
-                                        <div class="tp-portfolio-creative-item bg-position" data-background="assets/img/portfolio/mix/design_3D.png">
+                                        <div class="tp-portfolio-creative-item bg-position" data-background="assets/img/portfolio/mix/design_3D.webp">
                                             <div class="tp-portfolio-creative-content">
                                                 <span class="tp-portfolio-slicer-category">SERVICES</span>
                                                 <h2 class="tp-portfolio-slicer-title"><a href="portfolio-details-creative-light.html">Design 3D</a></h2>

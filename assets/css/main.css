@@ -5058,7 +5058,7 @@ body.loaded {
   visibility: visible;
 }
 .body-overlay:hover {
-  cursor: url(../img/cross-icon/cross-out.png), pointer;
+  cursor: url(../img/cross-icon/cross-out.webp), pointer;
 }
 
 .tp-offcanvas {
@@ -11003,7 +11003,7 @@ body.tp-magic-cursor #magic-cursor {
   height: 100vh;
   background-repeat: repeat;
   background-position: top left;
-  background-image: url(../img/body/noise.png);
+  background-image: url(../img/body/noise.webp);
 }
 .tp-hero-md-spacing {
   padding-top: 220px;
