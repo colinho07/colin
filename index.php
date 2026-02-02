@@ -55,7 +55,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                <span>N</span>
                <span>O</span>
                <span>Ë</span>
-               <span>L</span>
+               <span>Ldd</span>
             </div>
          </div>
       </div>
