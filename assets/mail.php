@@ -57,7 +57,7 @@
 
         // Check that data was sent to the mailer.
 
-        if ( empty($name) OR empty($company) OR empty($subject) OR empty($message) OR empty($phone) OR empty($checkbox) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
+       if ( empty($name) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
 
             // Set a 400 (bad request) response code and exit.
 
