@@ -34,12 +34,20 @@
         </svg>
         <div class="loader-wrap-heading">
             <div class="load-text">
-                <span>A</span>
-                <span>L</span>
-                <span>E</span>
-                <span>R</span>
-                <span>i</span>
-                <span>C</span>
+             <span>L</span>
+            <span>E</span>
+            <span>&nbsp;</span>
+            <span>B</span>
+            <span>A</span>
+            <span>R</span>
+            <span>&nbsp;</span>
+            <span>E</span>
+            <span>T</span>
+            <span>&nbsp;</span>
+            <span>V</span>
+            <span>O</span>
+            <span>U</span>
+            <span>S</span>
             </div>
         </div>
     </div>
@@ -186,7 +194,7 @@
                                     <span>2025</span>
                                 </div>
                                 <div class="des-portfolio-content">
-                                    <h2 class="des-portfolio-title tp-text-revel-anim"><a href="#">Electro Hub</a></h2>
+                                    <h2 class="des-portfolio-title tp-text-revel-anim"><a href="#">Montage Photo & Vidéo : LE BAR ET VOUS</a></h2>
                                 </div>
                             </div>
                         </div>
