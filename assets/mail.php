@@ -89,9 +89,21 @@
 
         $head = " /// Colin Noël - Portfolio \\\ ";
 
-
+        // Email Headers - ON FORCE L'EXPÉDITEUR AVEC TON DOMAINE
+$headers = "From: Portfolio <contact@colin-noel.fr>\r\n";
+$headers .= "Reply-To: $email\r\n"; // Permet de répondre directement au client
+$headers .= "Content-Type: text/plain; charset=UTF-8";
 
         // Build the email content.
+        // Send the email.
+if (mail($recipient, $sender, $email_content, $headers)) {
+    http_response_code(200);
+    echo "Merci ! Votre message a été envoyé.";
+} else {
+    // Si la fonction mail() renvoie false, on déclenche l'erreur 500
+    http_response_code(500);
+    echo "Erreur technique : Le serveur de mail refuse l'envoi.";
+}
 
         $email_content = "$head\n\n\n";
 
