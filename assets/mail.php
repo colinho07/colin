@@ -57,7 +57,7 @@
 
         // Check that data was sent to the mailer.
 
-       if ( empty($name) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        if ( empty($name) OR empty($company) OR empty($subject) OR empty($message) OR empty($phone) OR empty($checkbox) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
 
             // Set a 400 (bad request) response code and exit.
 
@@ -70,24 +70,30 @@
         }
 
 
-// 3. Préparation du destinataire et du sujet
-    $recipient = "noel_colin@icloud.com";
-    $sender_subject = "Nouveau contact de $name";
-    $head = " /// Colin Noël - Portfolio \\\ ";
 
-    // 4. CONSTRUCTION DU CONTENU (Doit être AVANT l'envoi)
-    $email_content = "$head\n\n";
-    $email_content .= "Nom: $name\n";
-    $email_content .= "Email: $email\n";
-    $email_content .= "Entreprise: $company\n";
-    $email_content .= "Téléphone: $phone\n";
-    $email_content .= "RGPD: $checkbox\n\n";
-    $email_content .= "Message:\n$message\n";
+        // Set the recipient email address.
 
-    // 5. PRÉPARATION DES HEADERS
-    $headers = "From: Portfolio <contact@colin-noel.fr>\r\n";
-    $headers .= "Reply-To: $email\r\n";
-    $headers .= "Content-Type: text/plain; charset=UTF-8";
+        // FIXME: Update this to your desired email address.
+
+        $recipient = "noel_colin@icloud.com";
+
+
+
+        // Set the email subject.
+
+        $sender = "Nouveau contact de $name";
+
+
+
+        //Email Header
+
+        $head = " /// Colin Noël - Portfolio \\\ ";
+
+
+
+        // Build the email content.
+
+        $email_content = "$head\n\n\n";
 
         if(isset($_POST["name"])){
             $email_content .= "Name: $name\n";
