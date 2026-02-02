@@ -187,14 +187,14 @@
                                     <img class="w-100 anim-zoomin" src="assets/img/portfolio/details/creative/portfolio-1.jpg" alt="">
                                 </div>
                                 <div class="des-portfolio-category d-none d-lg-block">
-                                    <span>Web Design</span>
-                                    <span>Web Development</span>
+                                    <span>Montage Photo</span>
+                                    <span>Montage Vidéo</span>
                                 </div>
                                 <div class="des-portfolio-category portfolio-meta d-none d-lg-block">
                                     <span>2025</span>
                                 </div>
                                 <div class="des-portfolio-content">
-                                    <h2 class="des-portfolio-title tp-text-revel-anim"><a href="#">Montage Photo & Vidéo : LE BAR ET VOUS</a></h2>
+                                    <h2 class="des-portfolio-title tp-text-revel-anim"><a href="#">LE BAR ET VOUS</a></h2>
                                 </div>
                             </div>
                         </div>
@@ -208,10 +208,10 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="tp-pd-3-overview-left tp_fade_anim" data-delay=".3">
-                                    <span class="tp-pd-3-subtitle">Digital platform</span>
-                                    <h4 class="tp-pd-3-title">Project Overview</h4>
+                                    <span class="tp-pd-3-subtitle">PRODUCTION VISUELLE</span>
+                                    <h4 class="tp-pd-3-title">Aperçu du projet</h4>
                                     <a class="tp-pd-3-btn" href="portfolio-details-creative-light.html">
-                                        Visit Site
+                                        Découvrez le rendu
                                         <span>
                                             <svg width="18" height="20" viewBox="0 0 18 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M1 9.99999H15.2222M8.11121 1.11108L17.0001 9.99997L8.11121 18.8889" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
@@ -223,34 +223,31 @@
                             <div class="col-lg-6">
                                 <div class="tp-pd-3-overview-right">
                                     <div class="tp-pd-3-overview-text">
-                                        <p> ElectroHub, a prominent retailer in the electronics
-                                            market, needed a refreshed visual identity to stand out among competitors and appeal to a tech-savvy audience.
-                                            Thegoal was to create a cohesive and modern
-                                        </p>
+                                        <p> Le Bar et Vous, situé à Saint-Denis-le-Gast, avait pour ambition de retranscrire l'ambiance unique de son comedy club à travers des contenus photo et vidéo dynamiques. L'objectif était de créer une série de montages percutants pour les réseaux sociaux et des visuels qui captent l'énergie de chaque spectacle. Le but était d'établir une signature visuelle moderne, cohérente et immédiatement reconnaissable.</p>
                                     </div>
                                     <div class="row">
                                         <div class="col-xl-6">
                                             <div class="tp-pd-3-overview-info mb-40">
-                                                <span>Client</span>
-                                                <h4>Envato Market</h4>
+                                                <span>Livrables</span>
+                                                <h4>Pack Créatif</h4>
                                             </div>
                                         </div>
                                         <div class="col-xl-6">
                                             <div class="tp-pd-3-overview-info mb-40">
                                                 <span>Service</span>
-                                                <h4>Visual Identity</h4>
+                                                <h4>Montage Photo & Vidéo</h4>
                                             </div>
                                         </div>
                                         <div class="col-xl-6">
                                             <div class="tp-pd-3-overview-info mb-40">
-                                                <span>Service</span>
-                                                <h4>Visual Identity</h4>
+                                                <span>Logiciels</span>
+                                                <h4>Photoshop, Premiere Pro</h4>
                                             </div>
                                         </div>
                                         <div class="col-xl-6">
                                             <div class="tp-pd-3-overview-info mb-40">
                                                 <span>Date</span>
-                                                <h4>8 June 2020</h4>
+                                                <h4>2025</h4>
                                             </div>
                                         </div>
                                     </div>
@@ -303,12 +300,12 @@
                                     </div>
                                     <div class="col-lg-6">
                                         <div class="tp-pd-3-portfolio-content tp-pd-3-content-pin mt-20 ml-40">
-                                            <span class="tp-pd-3-subtitle">Digital platform</span>
-                                            <h4 class="tp-pd-3-title">The Challenge</h4>
+                                            <span class="tp-pd-3-subtitle">MONTAGE PHOTO</span>
+                                            <h4 class="tp-pd-3-title">L'Âme du Comedy Club</h4>
                                             <div class="tp-pd-3-overview-text">
-                                                <p> ElectroHub, a prominent retailer in the electronics <br>
-                                                    market, needed a refreshed visual identity to stand <br>
-                                                    out among competitors .
+                                                <p> Pour ce projet, j'ai voulu capturer l'essence même du spectacle vivant en travaillant sur une esthétique immersive et authentique. J'ai opté pour une colorimétrie chaude et contrastée, pensée pour rappeler l'atmosphère feutrée et intime des cabarets traditionnels et des comedy clubs iconiques.
+<br><br>
+Afin de renforcer ce côté "vintage" et organique, j'ai appliqué un grain marqué sur l'ensemble des clichés. Ce traitement apporte une texture brute qui casse l'aspect trop lisse du numérique, donnant aux photos une allure de pellicule ancienne. Enfin, pour assurer la protection et la propriété des contenus, j'ai intégré le logo en filigrane en haut à droite de chaque visuel, garantissant une reconnaissance immédiate de la marque tout en sécurisant les images.
                                                 </p>
                                             </div>
                                         </div>
@@ -321,12 +318,12 @@
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="tp-pd-3-portfolio-content tp-pd-3-content-pin mt-20 mr-40">
-                                            <span class="tp-pd-3-subtitle">Digital platform</span>
-                                            <h4 class="tp-pd-3-title">The Solution</h4>
+                                            <span class="tp-pd-3-subtitle">MONTAGE VIDÉO</span>
+                                            <h4 class="tp-pd-3-title">L'impulsion Pop</h4>
                                             <div class="tp-pd-3-overview-text">
-                                                <p> ElectroHub, a prominent retailer in the electronics <br>
-                                                    market, needed a refreshed visual identity to stand <br>
-                                                    out among competitors .
+                                                <p> Concernant la partie vidéo du projet, j'ai choisi une direction artistique résolument moderne et dynamique, pensée pour les codes des réseaux sociaux. La colorimétrie est ici éclatante et pop, reprenant les teintes vives du logo pour créer une synergie visuelle forte et instantanément identifiable.
+<br><br>
+L'objectif était de produire des montages rapides et percutants, capturant l'énergie des soirées stand-up de manière fraîche et attrayante. J'ai privilégié des transitions fluides et un rythme soutenu, adaptés aux formats courts des plateformes comme Instagram ou TikTok. Ce choix esthétique permet de projeter une image jeune et connectée, tout en conservant l'esprit festif du Bar et Vous.
                                                 </p>
                                             </div>
                                         </div>
@@ -374,9 +371,9 @@
                         <div class="row">
                            <div class="col-lg-6 col-md-7">
                               <div class="tp-portfolio-details-2-tag mb-20">
-                                 <a href="#">UI/UX Design</a>
-                                 <a href="#">Developer</a>
-                                 <a href="#">Photography</a>
+                                 <a href="#">COLORIMÉTRIE</a>
+                                 <a href="#">DYNAMISME POP</a>
+                                 <a href="#">RÉSEAUX SOCIAUX</a>
                               </div>
                            </div>
                            <div class="col-lg-6 col-md-5">

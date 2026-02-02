@@ -34,12 +34,21 @@
         </svg>
         <div class="loader-wrap-heading">
             <div class="load-text">
-                <span>A</span>
-                <span>L</span>
-                <span>E</span>
+                <span>P</span>
                 <span>R</span>
-                <span>i</span>
-                <span>C</span>
+                <span>O</span>
+                <span>J</span>
+                <span>E</span>
+                <span>T</span>
+                <span>&nbsp;</span>
+                <span>D</span>
+                <span>'</span>
+                <span>é</span>
+                <span>t</span>
+                <span>u</span>
+                <span>d</span>
+                <span>e</span>
+                <span>s</span>
             </div>
         </div>
     </div>
@@ -228,23 +237,23 @@
                             <div class="col-lg-10">
                                 <div class="tp-pd-2-top pb-70 text-center">
                                     <div class="tp-pd-2-categories mb-30 tp_fade_anim" data-delay=".3">
-                                        <span>Website</span>
-                                        <span>Services</span>
+                                        <span>Design 3D</span>
+                                        <span>Développement de jeux</span>
                                     </div>
-                                    <h3 class="tp-pd-2-title tp_fade_anim" data-delay=".5">Olivia Rivers</h3>
+                                    <h3 class="tp-pd-2-title tp_fade_anim" data-delay=".5">Projets d'Études</h3>
                                 </div>
                                 <div class="tp-pd-2-bottom d-flex justify-content-between tp_fade_anim" data-delay=".7">
                                     <div class="tp-pd-2-bottom-item text-center">
                                         <span>Client</span>
-                                        <h6>Envato</h6>
+                                        <h6>BUT MMI</h6>
                                     </div>
                                     <div class="tp-pd-2-bottom-item text-center">
-                                        <span>Role</span>
-                                        <h6>Branding</h6>
+                                        <span>Logiciels</span>
+                                        <h6>Blender, Unity</h6>
                                     </div>
                                     <div class="tp-pd-2-bottom-item text-center">
-                                        <span>Duration</span>
-                                        <h6>8 March 2025</h6>
+                                        <span>Durée</span>
+                                        <h6>2023 — 2026</h6>
                                     </div>
                                     <div class="tp-pd-2-bottom-item text-center">
                                         <span>Designer</span>
@@ -277,21 +286,16 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="tp-pd-2-overview-heading tp_fade_anim" data-delay=".3">
-                                    <h3 class="tp-pd-2-overview-title">Brand overview</h3>
+                                    <h3 class="tp-pd-2-overview-title">Explorer l'Interactif</h3>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="tp-pd-2-overview-wrap">
-                                    <p>Solfeggio Obscuro is a music event shaped by the pulse of the underground,
-                                        where rhythm moves the body and sound opens the mind. Obscuro suggests
-                                        more than darkness—it speaks to the hidden,</p>
-                                    <p>the not immediately understood. That mood shaped a visual language that
-                                        doesn’t explain, but invites. Nothing screams for attention, but everything
-                                        pulls you in. It’s not trying to be nostalgic,</p>
+                                    <p>Après avoir maîtrisé la modélisation 3D, je suis passé à la création d'expériences immersives en temps réel. Ce projet regroupe diverses réalisations interactives développées exclusivement sur Unity, allant de l'escape game au portfolio 3D. L'objectif est de proposer une vitrine de mes compétences en informatique et en multimédia, en transformant des concepts statiques en mondes explorables.</p>
                                     <ul>
-                                        <li>Branding and identity</li>
-                                        <li>Websites and digital platforms</li>
-                                        <li>Content strategy for social media</li>
+                                        <li>Design 3D</li>
+                                        <li>Développement de jeux</li>
+                                        <li>Création d'expériences immersives</li>
                                     </ul>
                                 </div>
                             </div>
