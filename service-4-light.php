@@ -377,7 +377,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <!-- tp-video-area-end -->
 
            <!-- tp-testimonial-area-start -->
-            <div class="tp-testimonial-area pt-160">
+            <!-- <div class="tp-testimonial-area pt-160">
                <div class="container-fluid container-1524">
                   <div class="row">
                      <div class="col-12">
@@ -673,7 +673,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                   </div>
                </div>
-            </div>
+            </div> -->
             <!-- tp-testimonial-area-end -->
 
             <!-- tp-brands-area-start -->
