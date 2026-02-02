@@ -571,7 +571,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <!-- tp-video-area-end -->
 
             <!-- tp-testimonial-area-start -->
-            <div class="tp-testimonial-area pt-125 pb-105">
+            <!-- <div class="tp-testimonial-area pt-125 pb-105">
                <div class="container">
                   <div class="row">
                      <div class="col-lg-6">
@@ -657,7 +657,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                   </div>
                </div>
-            </div>
+            </div> -->
             <!-- tp-testimonial-area-end -->
 
             <!-- tp-text-slider-area-start -->
