@@ -70,42 +70,24 @@
         }
 
 
+// 3. Préparation du destinataire et du sujet
+    $recipient = "noel_colin@icloud.com";
+    $sender_subject = "Nouveau contact de $name";
+    $head = " /// Colin Noël - Portfolio \\\ ";
 
-        // Set the recipient email address.
+    // 4. CONSTRUCTION DU CONTENU (Doit être AVANT l'envoi)
+    $email_content = "$head\n\n";
+    $email_content .= "Nom: $name\n";
+    $email_content .= "Email: $email\n";
+    $email_content .= "Entreprise: $company\n";
+    $email_content .= "Téléphone: $phone\n";
+    $email_content .= "RGPD: $checkbox\n\n";
+    $email_content .= "Message:\n$message\n";
 
-        // FIXME: Update this to your desired email address.
-
-        $recipient = "noel_colin@icloud.com";
-
-
-
-        // Set the email subject.
-
-        $sender = "Nouveau contact de $name";
-
-
-
-        //Email Header
-
-        $head = " /// Colin Noël - Portfolio \\\ ";
-
-        // Email Headers - ON FORCE L'EXPÉDITEUR AVEC TON DOMAINE
-$headers = "From: Portfolio <contact@colin-noel.fr>\r\n";
-$headers .= "Reply-To: $email\r\n"; // Permet de répondre directement au client
-$headers .= "Content-Type: text/plain; charset=UTF-8";
-
-        // Build the email content.
-        // Send the email.
-if (mail($recipient, $sender, $email_content, $headers)) {
-    http_response_code(200);
-    echo "Merci ! Votre message a été envoyé.";
-} else {
-    // Si la fonction mail() renvoie false, on déclenche l'erreur 500
-    http_response_code(500);
-    echo "Erreur technique : Le serveur de mail refuse l'envoi.";
-}
-
-        $email_content = "$head\n\n\n";
+    // 5. PRÉPARATION DES HEADERS
+    $headers = "From: Portfolio <contact@colin-noel.fr>\r\n";
+    $headers .= "Reply-To: $email\r\n";
+    $headers .= "Content-Type: text/plain; charset=UTF-8";
 
         if(isset($_POST["name"])){
             $email_content .= "Name: $name\n";
