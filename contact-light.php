@@ -281,7 +281,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            </div>
                            <div class="tp-postbox-details-form-wrapper tp-contact-form tp-bg-common-white-2 p-relative z-index-1">
                               <img class="tp-contact-shape" src="assets/img/contact/shape.webp" alt="">
-                              <form id="contact-form" action="assets/mail.php" method="POST">
+                              <form id="contact-form" action="https://api.web3forms.com/submit" method="POST">
+                                <input type="hidden" name="access_key" value="28b949cd-1538-437b-a8a2-594a05581739">
                                  <div class="row">
                                     <div class="col-xl-6">
                                        <div class="tp-postbox-details-input mb-25">
