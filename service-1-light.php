@@ -298,7 +298,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="tp-service-title-wrap mb-45">
                            <span class="tp-section-subtitle tp-ff-heading fw-500 tp-text-common-black fs-16 mb-80 tp_fade_anim" data-delay=".3"><span class="borders d-inline-block"></span>Impact</span>
                            <div class="d-sm-flex align-items-start tp_fade_anim" data-delay=".5">
-                              <img class="mr-40 tp-service-shape" src="assets/img/service/shapes.webp" alt="">
+                              <img class="mr-40 tp-service-shape" src="assets/img/service/shape.webp" alt="">
                               <p class="tp-ff-heading fs-25 fw-500 tp-text-grey-1 tp-service-para">Je construis votre site web comme un outil stratégique. Mon approche : un design unique pour une croissance et une efficacité maximales.</p>
                            </div>
                         </div>
