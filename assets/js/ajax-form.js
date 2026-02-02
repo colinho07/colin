@@ -1,4 +1,4 @@
-$(function() {
+$(function () {
 
 	// Get the form.
 	var form = $('#contact-form');
@@ -7,7 +7,7 @@ $(function() {
 	var formMessages = $('.ajax-response');
 
 	// Set up an event listener for the contact form.
-	$(form).submit(function(e) {
+	$(form).submit(function (e) {
 		// Stop the browser from submitting the form.
 		e.preventDefault();
 
@@ -18,31 +18,31 @@ $(function() {
 		$.ajax({
 			type: 'POST',
 			url: $(form).attr('action'),
-			data: formData
+			data: formData,
+			dataType: 'json' // On précise qu'on attend du JSON
 		})
-		.done(function(response) {
-			// Make sure that the formMessages div has the 'success' class.
-			$(formMessages).removeClass('error');
-			$(formMessages).addClass('success');
+			.done(function (response) {
+				// Make sure that the formMessages div has the 'success' class.
+				$(formMessages).removeClass('error').addClass('success');
 
-			// Set the message text.
-			$(formMessages).text(response);
+				// Web3Forms renvoie le message dans response.message
+				$(formMessages).text("Merci ! Votre message a été envoyé avec succès.");
 
-			// Clear the form.
-			$('#contact-form input,#contact-form textarea').val('');
-		})
-		.fail(function(data) {
-			// Make sure that the formMessages div has the 'error' class.
-			$(formMessages).removeClass('success');
-			$(formMessages).addClass('error');
+				// Clear the form.
+				$('#contact-form input,#contact-form textarea').val('');
+				// On ne vide pas le access_key !
+				$('#contact-form input[type="hidden"]').val('28b949cd-1538-437b-a8a2-594a05581739');
+			})
+			.fail(function (data) {
+				$(formMessages).removeClass('success').addClass('error');
 
-			// Set the message text.
-			if (data.responseText !== '') {
-				$(formMessages).text(data.responseText);
-			} else {
-				$(formMessages).text('Oops! An error occured and your message could not be sent.');
-			}
-		});
+				// Si Web3Forms renvoie une erreur JSON
+				if (data.responseJSON && data.responseJSON.message) {
+					$(formMessages).text(data.responseJSON.message);
+				} else {
+					$(formMessages).text('Oups ! Une erreur est survenue lors de l\'envoi.');
+				}
+			});
 	});
 
 });
