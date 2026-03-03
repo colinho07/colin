@@ -446,7 +446,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </clipPath>
                               </defs>
                            </svg>
-                           jQuery
+                           PHP
                         </span>
                      </p>
                      <p data-tp-throwable-el="">
@@ -467,7 +467,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </linearGradient>
                               </defs>
                            </svg>
-                           Node Js</span>
+                           CSS</span>
                      </p>
                      <p data-tp-throwable-el="">
                         <span class="tp-techonolgy-capsule-item sketch">
@@ -516,7 +516,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </linearGradient>
                               </defs>
                            </svg>
-                           D3 Js</span>
+                           HTML</span>
                      </p>
                      <p data-tp-throwable-el="">
                         <span class="tp-techonolgy-capsule-item vue">
@@ -532,7 +532,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </clipPath>
                               </defs>
                            </svg>  
-                           Vue Js
+                           Wordpress
                         </span>
                      </p>
                </div>
