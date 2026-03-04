@@ -244,7 +244,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <a href="https://dribbble.com/colin_noel"><i class="fa-brands fa-dribbble"></i></a>  
                               <a href="https://www.behance.net/colin_noel"><i class="fa-brands fa-behance"></i></a>  
                               </div>
-                              <span class="borders">Télécharger mon CV</span>
+                             <a href="CV_NOËL_COLIN.PDF" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><span class="borders">Télécharger mon CV</span></a>
                            </div>
                            <div class="tp-about-wd-shape tp-hero-pp-shape tp-about-sa-shape">
                               <span class="shape-1 d-inline-block mr-10">
