@@ -465,7 +465,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           </svg>
                                        </span>
                                     </span>
-                                    <h5 class="tp-portfolio-navigation-title tp-ff-dm fw-600 fs-28 fs-xs-20 lh-130-per">Projet :<br> 1.</h5>
+                                    <h5 class="tp-portfolio-navigation-title tp-ff-heading fw-600 fs-28 fs-xs-20 lh-130-per">Projet :<br> 1.</h5>
                                  </div>
                               </a>
                            </div>
@@ -490,7 +490,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           </svg>
                                        </span>
                                     </span>
-                                    <h5 class="tp-portfolio-navigation-title tp-ff-dm fw-600 fs-28 fs-xs-20 lh-130-per">Projet :<br> 2</h5>
+                                    <h5 class="tp-portfolio-navigation-title tp-ff-heading fw-600 fs-28 fs-xs-20 lh-130-per">Projet :<br> 2</h5>
                                  </div>
                                  <img class="ml-30" src="assets/img/portfolio/details/two/nav.jpg" alt="">
                               </a>

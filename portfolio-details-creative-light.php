@@ -24,7 +24,7 @@
 <body class="tp-magic-cursor loaded">
    <div class="tp-hero-ai-body-overlay"></div>
    <!--[if lte IE 9]>
-      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+      <p class="browserupgrade">You artp-ff-e using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
       <![endif]-->
 
    <!-- loading-area-start -->
@@ -405,7 +405,7 @@ L'objectif était de produire des montages rapides et percutants, capturant l'é
                                           </svg>
                                        </span>
                                     </span>
-                                    <h5 class="tp-portfolio-navigation-title tp-ff-dm fw-600 fs-28 fs-xs-20 lh-130-per">Projet :<br> 1.</h5>
+                                    <h5 class="tp-portfolio-navigation-title tp-ff-heading fw-600 fs-28 fs-xs-20 lh-130-per">Projet :<br> 1.</h5>
                                  </div>
                               </a>
                            </div>
@@ -430,7 +430,7 @@ L'objectif était de produire des montages rapides et percutants, capturant l'é
                                           </svg>
                                        </span>
                                     </span>
-                                    <h5 class="tp-portfolio-navigation-title tp-ff-dm fw-600 fs-28 fs-xs-20 lh-130-per">Projet :<br> 2</h5>
+                                    <h5 class="tp-portfolio-navigation-title tp-ff-heading fw-600 fs-28 fs-xs-20 lh-130-per">Projet :<br> 2</h5>
                                  </div>
                                  <img class="ml-30" src="assets/img/portfolio/details/two/nav.jpg" alt="">
                               </a>

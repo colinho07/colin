@@ -197,7 +197,7 @@
                   <div class="row">
                      <div class="col-xl-12 col-lg-12 col-md-9">
                         <div class="tp-breadcrumb-4-title-wrap">
-                           <h2 class="tp-section-ai-title mb-25 fs-70 fs-xl-65 fs-lg-55 fs-sm-45 fs-xs-40 fw-600 ls-m-4 tp-ff-dm mb-15 tp-text-common-white">Identité Visuelle :<br> LE BAR ET VOUS</h2>
+                           <h2 class="tp-section-ai-title mb-25 fs-70 fs-xl-65 fs-lg-55 fs-sm-45 fs-xs-40 fw-600 ls-m-4 tp-ff-heading mb-15 tp-text-common-white">Identité Visuelle :<br> LE BAR ET VOUS</h2>
                            <div class="tp-breadcrumb-list tp-breadcrumb-2-list tp-breadcrumb-3-white pt-35">
                               <ul>
                                  <li><a href="index.html">PORTFOLIO</a></li>
@@ -224,7 +224,7 @@
                      <div class="row">
                         <div class="col-lg-4">
                            <div class="tp-portfolio-details-2-cetagory-wrap mb-30">
-                              <h2 class="tp-ff-dm fw-600 fs-32 ls-m-4 tp-text-common-black-5 mb-35">Détails du projet</h2>
+                              <h2 class="tp-ff-heading fw-600 fs-32 ls-m-4 tp-text-common-black-5 mb-35">Détails du projet</h2>
                               <div class="tp-portfolio-details-2-cetagory">
                                  <ul>
                                     <li>
@@ -253,9 +253,9 @@
                         </div>
                         <div class="col-lg-8">
                            <div class="tp-portfolio-details-2-overview-wrap mr-130 ml-140 mb-30">
-                              <h2 class="tp-ff-dm fw-600 fs-32 ls-m-4 tp-text-common-black-5 mb-35">Ensemble du projet</h2>
-                              <p class="tp-text-grey-1 tp-ff-dm lh-180-per ls-m-2">L’objectif était de créer une identité forte pour émerger dans un flux saturé. J'ai imaginé une direction artistique brute, entre l'ambiance tamisée du stand-up et l'énergie du lieu de vie. Chaque visuel est pensé pour annoncer un événement en un clin d'œil tout en restant cohérent.</p>
-                              <p class="tp-text-grey-1 tp-ff-dm lh-180-per ls-m-2">J'ai développé un design system complet, directement inspiré du logo et de l'ADN du bar. Ce système me permet de décliner rapidement chaque contenu, des affiches physiques aux stories, assurant une reconnaissance immédiate du lieu sur tous les supports.</p>
+                              <h2 class="tp-ff-heading fw-600 fs-32 ls-m-4 tp-text-common-black-5 mb-35">Ensemble du projet</h2>
+                              <p class="tp-text-grey-1 tp-ff-p lh-180-per ls-m-2">L’objectif était de créer une identité forte pour émerger dans un flux saturé. J'ai imaginé une direction artistique brute, entre l'ambiance tamisée du stand-up et l'énergie du lieu de vie. Chaque visuel est pensé pour annoncer un événement en un clin d'œil tout en restant cohérent.</p>
+                              <p class="tp-text-grey-1 tp-ff-p lh-180-per ls-m-2">J'ai développé un design system complet, directement inspiré du logo et de l'ADN du bar. Ce système me permet de décliner rapidement chaque contenu, des affiches physiques aux stories, assurant une reconnaissance immédiate du lieu sur tous les supports.</p>
                            </div>
                         </div>
                      </div>
@@ -282,13 +282,13 @@
                      <div class="row">
                         <div class="col-lg-12">
                            <div class="tp-portfolio-details-2-cetagory-wrap mb-65">
-                              <h2 class="tp-ff-dm tp-portfolio-details-2-border pb-35 fw-600 fs-32 ls-m-4 tp-text-common-black-5 mb-50">Détails du Projet</h2>
-                              <p class="tp-text-grey-1 tp-ff-dm lh-180-per ls-m-2 mr-115">Le Bar et Vous est un établissement hybride situé à Saint-Denis-le-Gast, qui allie l'authenticité d'un point de rencontre normand à la culture moderne du comedy club. Ma mission a consisté à piloter l'ensemble de sa visibilité pour transformer ce lieu de vie en une destination incontournable de la scène locale. L'enjeu était d'installer une présence graphique solide, capable de fédérer une communauté d'habitués tout en attirant un nouveau public venu de toute la région pour les spectacles.</p>
+                              <h2 class="tp-ff-heading tp-portfolio-details-2-border pb-35 fw-600 fs-32 ls-m-4 tp-text-common-black-5 mb-50">Détails du Projet</h2>
+                              <p class="tp-text-grey-1 tp-ff-p lh-180-per ls-m-2 mr-115">Le Bar et Vous est un établissement hybride situé à Saint-Denis-le-Gast, qui allie l'authenticité d'un point de rencontre normand à la culture moderne du comedy club. Ma mission a consisté à piloter l'ensemble de sa visibilité pour transformer ce lieu de vie en une destination incontournable de la scène locale. L'enjeu était d'installer une présence graphique solide, capable de fédérer une communauté d'habitués tout en attirant un nouveau public venu de toute la région pour les spectacles.</p>
                            </div>
                         </div>
                         <div class="col-lg-6">
                            <div class="tp-service-details-content tp-portfolio-details-2-branding mb-30">
-                              <h2 class="tp-ff-dm fw-600 fs-32 ls-m-4 tp-text-common-black-5 mb-35">Ma Méthodologie</h2>
+                              <h2 class="tp-ff-heading fw-600 fs-32 ls-m-4 tp-text-common-black-5 mb-35">Ma Méthodologie</h2>
                               <ul>
                                  <li>
                                     <i class="fa-regular fa-circle-check"></i>
@@ -311,8 +311,8 @@
                         </div>
                         <div class="col-lg-6">
                            <div class="tp-portfolio-details-2-challenge mr-130 mb-30">
-                              <h2 class="tp-ff-dm fw-600 fs-32 ls-m-4 tp-text-common-black-5 mb-35">Le Défi à Relever</h2>
-                              <p class="tp-text-grey-1 tp-ff-dm lh-180-per ls-m-2">Le défi majeur a été de concilier la vie quotidienne du bar avec l'aspect événementiel très changeant du stand-up. Il a fallu créer une méthode de travail flexible qui permet de passer d'un menu de boissons à une affiche de spectacle sans rupture visuelle. Cette organisation assure une transition fluide entre l'ambiance chaleureuse du comptoir et l'excitation des soirées de spectacle.
+                              <h2 class="tp-ff-heading fw-600 fs-32 ls-m-4 tp-text-common-black-5 mb-35">Le Défi à Relever</h2>
+                              <p class="tp-text-grey-1 tp-ff-p lh-180-per ls-m-2">Le défi majeur a été de concilier la vie quotidienne du bar avec l'aspect événementiel très changeant du stand-up. Il a fallu créer une méthode de travail flexible qui permet de passer d'un menu de boissons à une affiche de spectacle sans rupture visuelle. Cette organisation assure une transition fluide entre l'ambiance chaleureuse du comptoir et l'excitation des soirées de spectacle.
                                  with their target audience.</p>
                            </div>
                         </div>
@@ -376,7 +376,7 @@
                                           </svg>
                                        </span>
                                     </span>
-                                    <h5 class="tp-portfolio-navigation-title tp-ff-dm fw-600 fs-28 fs-xs-20 lh-130-per">Projet :<br> 1.</h5>
+                                    <h5 class="tp-portfolio-navigation-title tp-ff-heading fw-600 fs-28 fs-xs-20 lh-130-per">Projet :<br> 1.</h5>
                                  </div>
                               </a>
                            </div>
@@ -401,7 +401,7 @@
                                           </svg>
                                        </span>
                                     </span>
-                                    <h5 class="tp-portfolio-navigation-title tp-ff-dm fw-600 fs-28 fs-xs-20 lh-130-per">Projet :<br> 2</h5>
+                                    <h5 class="tp-portfolio-navigation-title tp-ff-heading fw-600 fs-28 fs-xs-20 lh-130-per">Projet :<br> 2</h5>
                                  </div>
                                  <img class="ml-30" src="assets/img/portfolio/details/two/nav.jpg" alt="">
                               </a>
