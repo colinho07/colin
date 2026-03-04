@@ -295,7 +295,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center active"  data-img="assets/img/portfolio/cst/packshot.webp">
                               <div class="tp-portfolio-cst-text mb-15">
                                  <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-heading d-inline-block tp-bg-common-white-2">Packshot</span>
-                                 <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-heading"><a href="service-details-2-light.html">Sublimer vos produits</a></h4>
+                                 <h4 class="tp-portfolio-cst-title fw-700 fs-28 tp-ff-heading"><a href="service-details-2-light.html">Sublimer vos produits</a></h4>
                               </div>
                               <a class="tp-portfolio-cst-btn mb-15" href="service-details-2-light.html">
                                  <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -306,7 +306,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center"  data-img="assets/img/portfolio/cst/mouvement.webp">
                               <div class="tp-portfolio-cst-text mb-15">
                                  <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-heading d-inline-block tp-bg-common-white-2">Motion 3D</span>
-                                 <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-heading"><a href="service-details-2-light.html">Créer le mouvement</a></h4>
+                                 <h4 class="tp-portfolio-cst-title fw-700 fs-28 tp-ff-heading"><a href="service-details-2-light.html">Créer le mouvement</a></h4>
                               </div>
                               <a class="tp-portfolio-cst-btn mb-15" href="service-details-2-light.html">
                                  <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -317,7 +317,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center"  data-img="assets/img/portfolio/cst/interface.webp">
                               <div class="tp-portfolio-cst-text mb-15">
                                  <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-heading d-inline-block tp-bg-common-white-2">Web Design</span>
-                                 <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-heading"><a href="service-details-2-light.html">Dynamiser vos interfaces</a></h4>
+                                 <h4 class="tp-portfolio-cst-title fw-700 fs-28 tp-ff-heading"><a href="service-details-2-light.html">Dynamiser vos interfaces</a></h4>
                               </div>
                               <a class="tp-portfolio-cst-btn mb-15" href="service-details-2-light.html">
                                  <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -328,7 +328,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center"  data-img="assets/img/portfolio/cst/scénographie.webp">
                               <div class="tp-portfolio-cst-text mb-15">
                                  <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-heading d-inline-block tp-bg-common-white-2">Set Design</span>
-                                 <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-heading"><a href="service-details-2-light.html">Scénographier vos univers</a></h4>
+                                 <h4 class="tp-portfolio-cst-title fw-700 fs-28 tp-ff-heading"><a href="service-details-2-light.html">Scénographier vos univers</a></h4>
                               </div>
                               <a class="tp-portfolio-cst-btn mb-15" href="service-details-2-light.html">
                                  <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -339,7 +339,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center"  data-img="assets/img/portfolio/cst/immersion.webp">
                               <div class="tp-portfolio-cst-text mb-15">
                                  <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-heading d-inline-block tp-bg-common-white-2">Web & Interactif</span>
-                                 <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-heading"><a href="service-details-2-light.html">L'immersion digitale</a></h4>
+                                 <h4 class="tp-portfolio-cst-title fw-700 fs-28 tp-ff-heading"><a href="service-details-2-light.html">L'immersion digitale</a></h4>
                               </div>
                               <a class="tp-portfolio-cst-btn mb-15" href="service-details-2-light.html">
                                  <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -369,7 +369,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               </span>
                               <div>
                                  <h2 class="tp-ff-heading tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="80" class="purecounter">0</span>+</h2>
-                                 <span class="fs-500 fs-18 tp-ff-dm">Idées modélisées</span>
+                                 <span class="fs-500 fs-18 tp-ff-p">Idées modélisées</span>
                               </div>
                            </div>
                         </div>
@@ -384,7 +384,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               </span>
                               <div>
                                  <h2 class="tp-ff-heading tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="500" class="purecounter">0</span>H</h2>
-                                 <span class="fs-500 fs-18 tp-ff-dm">de calcul rendu</span>
+                                 <span class="fs-500 fs-18 tp-ff-p">de calcul rendu</span>
                               </div>
                            </div>
                         </div>
@@ -399,7 +399,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               </span>
                               <div>
                                  <h2 class="tp-ff-heading tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="2" class="purecounter">0</span> ans</h2>
-                                 <span class="fs-500 fs-18 tp-ff-dm">d'expérience sur Blender</span>
+                                 <span class="fs-500 fs-18 tp-ff-p">d'expérience sur Blender</span>
                               </div>
                            </div>
                         </div>
@@ -414,7 +414,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               </span>
                               <div>
                                  <h2 class="tp-ff-heading tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="100" class="purecounter">0</span>%</h2>
-                                 <span class="fs-500 fs-18 tp-ff-dm">de satisfaction</span>
+                                 <span class="fs-500 fs-18 tp-ff-p">de satisfaction</span>
                               </div>
                            </div>
                         </div>
@@ -543,44 +543,44 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-7">
                         <div class="tp-process-it-title-wrap mb-50">
-                           <h2 class="tp-text-revel-anim fix tp-ff-dm fw-600 fs-60 fs-xs-40 lh-120-per ls-m-4 tp-text-common-black mb-20">De l'idée brute au réalisme total.</h2>
-                           <p class="tp-section-it-para fs-24 fs-xs-18 tp-ff-dm lh-150-per">Je suis une méthodologie précise pour transformer vos concepts en visuels 3D saisissants, en veillant à ce que chaque détail serve votre image de marque. </p>
+                           <h2 class="tp-text-revel-anim fix tp-ff-heading fw-600 fs-60 fs-xs-40 lh-120-per ls-m-4 tp-text-common-black mb-20">De l'idée brute au réalisme total.</h2>
+                           <p class="tp-section-it-para fs-24 fs-xs-18 tp-ff-p lh-150-per">Je suis une méthodologie précise pour transformer vos concepts en visuels 3D saisissants, en veillant à ce que chaque détail serve votre image de marque. </p>
                         </div>
                      </div>
                   </div>
                   <div class="row gx-30 pt-30">
                      <div class="col-xl-3 col-lg-6 col-md-6">
                         <div class="tp-process-it-item tp-process-it-item-2 text-center mb-30 tp_fade_anim" data-delay=".3">
-                           <span class="tp-process-it-position tp-ff-dm fs-24 fw-600 tp-text-common-black-5 mb-110 d-inline-block">01</span>
-                           <h4 class="tp-process-it-title tp-ff-dm fs-28 lh-120-per tp-text-common-black-5 mb-20">Volume<br> & Composition</h4>
-                           <p class="tp-process-it-para tp-ff-dm fs-16 lh-150-per tp-text-common-black-5 opacity-8">Création des formes de base pour valider l'équilibre visuel avant d'entrer dans le détail.</p>
+                           <span class="tp-process-it-position tp-ff-heading fs-24 fw-600 tp-text-common-black-5 mb-110 d-inline-block">01</span>
+                           <h4 class="tp-process-it-title tp-ff-heading fs-28 lh-120-per tp-text-common-black-5 mb-20">Volume<br> & Composition</h4>
+                           <p class="tp-process-it-para tp-ff-p fs-16 lh-150-per tp-text-common-black-5 opacity-8">Création des formes de base pour valider l'équilibre visuel avant d'entrer dans le détail.</p>
                         </div>
                      </div>
                      <div class="col-xl-3 col-lg-6 col-md-6">
                         <div class="tp-process-it-item tp-process-it-item-2 text-center mb-30 tp_fade_anim" data-delay=".5">
-                           <span class="tp-process-it-position tp-ff-dm fs-24 fw-600 tp-text-common-black-5 mb-110 d-inline-block">02</span>
-                           <h4 class="tp-process-it-title tp-ff-dm fs-28 lh-120-per tp-text-common-black-5 mb-20">Modélisation<br> & Matières</h4>
-                           <p class="tp-process-it-para tp-ff-dm fs-16 lh-150-per tp-text-common-black-5 opacity-8">Sculpture numérique et application de textures réalistes pour donner de la substance à l'objet.</p>
+                           <span class="tp-process-it-position tp-ff-heading fs-24 fw-600 tp-text-common-black-5 mb-110 d-inline-block">02</span>
+                           <h4 class="tp-process-it-title tp-ff-heading fs-28 lh-120-per tp-text-common-black-5 mb-20">Modélisation<br> & Matières</h4>
+                           <p class="tp-process-it-para tp-ff-p fs-16 lh-150-per tp-text-common-black-5 opacity-8">Sculpture numérique et application de textures réalistes pour donner de la substance à l'objet.</p>
                         </div>
                      </div>
                      <div class="col-xl-3 col-lg-6 col-md-6">
                         <div class="tp-process-it-item tp-process-it-item-2 text-center mb-30 tp_fade_anim" data-delay=".7">
-                           <span class="tp-process-it-position tp-ff-dm fs-24 fw-600 tp-text-common-black-5 mb-110 d-inline-block">03</span>
-                           <h4 class="tp-process-it-title tp-ff-dm fs-28 lh-120-per tp-text-common-black-5 mb-20">Lumière <br> & Ambiance</h4>
-                           <p class="tp-process-it-para tp-ff-dm fs-16 lh-150-per tp-text-common-black-5 opacity-8">Mise en place d'un éclairage studio pour sublimer les volumes et créer une atmosphère unique.</p>
+                           <span class="tp-process-it-position tp-ff-heading fs-24 fw-600 tp-text-common-black-5 mb-110 d-inline-block">03</span>
+                           <h4 class="tp-process-it-title tp-ff-heading fs-28 lh-120-per tp-text-common-black-5 mb-20">Lumière <br> & Ambiance</h4>
+                           <p class="tp-process-it-para tp-ff-p fs-16 lh-150-per tp-text-common-black-5 opacity-8">Mise en place d'un éclairage studio pour sublimer les volumes et créer une atmosphère unique.</p>
                         </div>
                      </div>
                      <div class="col-xl-3 col-lg-6 col-md-6">
                         <div class="tp-process-it-item tp-process-it-item-2 text-center mb-30 tp_fade_anim" data-delay=".9">
-                           <span class="tp-process-it-position tp-ff-dm fs-24 fw-600 tp-text-common-black-5 mb-110 d-inline-block">04</span>
-                           <h4 class="tp-process-it-title tp-ff-dm fs-28 lh-120-per tp-text-common-black-5 mb-20">Rendu <br> & Post-production</h4>
-                           <p class="tp-process-it-para tp-ff-dm fs-16 lh-150-per tp-text-common-black-5 opacity-8">Calcul final en haute définition et finitions colorimétriques pour un résultat impeccable.</p>
+                           <span class="tp-process-it-position tp-ff-heading fs-24 fw-600 tp-text-common-black-5 mb-110 d-inline-block">04</span>
+                           <h4 class="tp-process-it-title tp-ff-heading fs-28 lh-120-per tp-text-common-black-5 mb-20">Rendu <br> & Post-production</h4>
+                           <p class="tp-process-it-para tp-ff-p fs-16 lh-150-per tp-text-common-black-5 opacity-8">Calcul final en haute définition et finitions colorimétriques pour un résultat impeccable.</p>
                         </div>
                      </div>
                      <div class="col-lg-12">
                         <div class="tp-skill-wd-bottom text-center mt-30 tp_fade_anim" data-delay=".4" data-fade-from="bottom" data-ease="bounce">
-                           <p class="tp-process-it-para-2 tp-process-it-para-3 tp-skill-wd-para tp-ff-dm fw-500 fs-16 tp-text-common-black-5">Une idée de projet en volume ?
-                              <a href="contact-light.php" class="ml-20 d-inline-block lh-0 tp-round-26 fs-16 ls-m-3 text-uppercase ls-0 tp-btn-switch-animation tp-text-common-black tp-ff-dm fw-700">
+                           <p class="tp-process-it-para-2 tp-process-it-para-3 tp-skill-wd-para tp-ff-p fw-500 fs-16 tp-text-common-black-5">Une idée de projet en volume ?
+                              <a href="contact-light.php" class="ml-20 d-inline-block lh-0 tp-round-26 fs-16 ls-m-3 text-uppercase ls-0 tp-btn-switch-animation tp-text-common-black tp-ff-heading fw-700">
                                  <span class="d-flex align-items-center justify-content-center">
                                     <span class="btn-text">parlons-en</span>
                                     <span class="btn-icon">

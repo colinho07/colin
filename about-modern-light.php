@@ -218,7 +218,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="row">
                      <div class="col-lg-12">
                         <div class="tp-about-cst-title-wrap mb-80">
-                           <h2 class="tp-about-2-title fs-md-40 fs-xs-30 tp_text_invert invert-black tp-ff-dm fw-600 tp-text-common-black">Le design va au-delà de la simple création.
+                           <h2 class="tp-about-2-title fs-md-40 fs-xs-30 tp_text_invert invert-black tp-ff-heading fw-600 tp-text-common-black">Le design va au-delà de la simple création.
                            Il s'agit<br> de construire des expériences qui racontent<br>
                              une histoire et qui connectent les gens.</h2>
                         </div>
@@ -229,8 +229,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               <img class="mr-30" src="assets/img/about/cst/connexion.webp" alt="">
                            </div>
                            <div class="tp-about-expreance d-flex align-items-end mb-30">
-                              <h2 class="fw-600 fs-100 tp-ff-dm p-relative d-inline-block mb-0 lh-1">5 <span class="plus fs-25">+</span></h2>
-                              <span class="tp-ff-dm fs-18 fw-700 tp-text-common-black mb-10 ml-15">Années d'<br> Expériences</span>
+                              <h2 class="fw-600 fs-100 tp-ff-heading p-relative d-inline-block mb-0 lh-1">5 <span class="plus fs-25">+</span></h2>
+                              <span class="tp-ff-p fs-18 fw-600 tp-text-common-black mb-10 ml-15">Années d'<br> Expériences</span>
                            </div>
                         </div>
                      </div>
@@ -249,9 +249,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <div class="tab-content p-relative mb-45">
                               <div class="tab-pane active show" id="groth" role="tabpanel">
                                  <div class="tp-about-cst-tab-content">
-                                    <p class="fs-18 tp-ff-dm lh-140-per mb-30">Avant de commencer à créer, je prends le temps de comprendre. Je m'immerge dans chaque projet pour en saisir les objectifs et l'audience. C'est à cette étape que ma vision créative rencontre une approche stratégique.</p>
-                                    <p class="fs-18 tp-ff-dm lh-140-per mb-40">Le but est de s'assurer que le design sera bien plus qu'une simple image, mais une histoire pertinente qui résonne.</p>
-                                    <a href="portfolio-interactive-with-hover.php" class="tp-btn-cst d-inline-block mr-5 lh-0 tp-round-26 fs-16 tp-bg-common-green-2 ls-0 tp-btn-switch-2-animation tp-text-common-black fw-700 tp-ff-dm">
+                                    <p class="fs-18 tp-ff-p lh-140-per mb-30">Avant de commencer à créer, je prends le temps de comprendre. Je m'immerge dans chaque projet pour en saisir les objectifs et l'audience. C'est à cette étape que ma vision créative rencontre une approche stratégique.</p>
+                                    <p class="fs-18 tp-ff-p lh-140-per mb-40">Le but est de s'assurer que le design sera bien plus qu'une simple image, mais une histoire pertinente qui résonne.</p>
+                                    <a href="portfolio-interactive-with-hover.php" class="tp-btn-cst d-inline-block mr-5 lh-0 tp-round-26 fs-16 tp-bg-common-green-2 ls-0 tp-btn-switch-2-animation tp-text-common-black fw-700 tp-ff-heading">
                                        <span class="d-flex align-items-center justify-content-center">
                                           <span class="btn-text">Découvrez mon portfolio</span>
                                           <span class="btn-icon">
@@ -270,9 +270,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               </div>
                               <div class="tab-pane" id="market" role="tabpanel">
                                  <div class="tp-about-cst-tab-content">
-                                    <p class="fs-18 tp-ff-dm lh-140-per mb-30">Une fois la stratégie définie, le design prend vie. C'est la phase où la créativité s'exprime pour transformer une idée en une expérience visuelle concrète. Je travaille chaque détail pour garantir un résultat final à la fois esthétique et fonctionnel.</p>
-                                    <p class="fs-18 tp-ff-dm lh-140-per mb-40">L'objectif est de créer une véritable connexion avec l'utilisateur, et de donner vie à des visuels qui ont un impact durable.</p>
-                                    <a href="portfolio-interactive-with-hover.php" class="tp-btn-cst d-inline-block mr-5 lh-0 tp-round-26 fs-16 tp-bg-common-green-2 ls-0 tp-btn-switch-2-animation tp-text-common-black fw-700 tp-ff-dm">
+                                    <p class="fs-18 tp-ff-p lh-140-per mb-30">Une fois la stratégie définie, le design prend vie. C'est la phase où la créativité s'exprime pour transformer une idée en une expérience visuelle concrète. Je travaille chaque détail pour garantir un résultat final à la fois esthétique et fonctionnel.</p>
+                                    <p class="fs-18 tp-ff-p lh-140-per mb-40">L'objectif est de créer une véritable connexion avec l'utilisateur, et de donner vie à des visuels qui ont un impact durable.</p>
+                                    <a href="portfolio-interactive-with-hover.php" class="tp-btn-cst d-inline-block mr-5 lh-0 tp-round-26 fs-16 tp-bg-common-green-2 ls-0 tp-btn-switch-2-animation tp-text-common-black fw-700 tp-ff-heading">
                                        <span class="d-flex align-items-center justify-content-center">
                                           <span class="btn-text">Découvrez mon portfolio</span>
                                           <span class="btn-icon">
@@ -305,7 +305,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <div class="tp-about-cst-list tp-bg-common-green-2 tp-round-8 d-inline-block" data-speed="0.9">
                               <img class="w-100" src="assets/img/about/cst/graph.webp" alt="">
                               <div class="tp-about-cst-list-inner">
-                                 <h4 class="tp-text-common-black tp-ff-dm fw-600 fs-18 mb-5">Travaillons ensemble</h4>
+                                 <h4 class="tp-text-common-black tp-ff-heading fw-1000 fs-18 mb-5">Travaillons ensemble</h4>
                                  <ul>
                                     <li>
                                        <span>
@@ -332,7 +332,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                       On crée un projet qui vous ressemble.
                                     </li>
                                  </ul>
-                                 <a class="tp-about-cst-list-btn tp-bg-common-black d-flex justify-content-between align-items-center tp-text-grey-5 fw-700 fs-14 tp-ff-dm" href="contact-light.php">
+                                 <a class="tp-about-cst-list-btn tp-bg-common-black d-flex justify-content-between align-items-center tp-text-grey-5 fw-900 fs-14 tp-ff-heading" href="contact-light.php">
                                    On se lance ?
                                     <svg width="13" height="8" viewBox="0 0 13 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                                        <path d="M12.8 4.00047C10.5066 3.11428 7.66113 1.60168 5.89705 0L7.12686 3.54162H0.440804C0.353649 3.54164 0.268309 3.56806 0.195839 3.61849C0.123344 3.66894 0.0671054 3.74115 0.033736 3.82504C0.000415994 3.90889 -0.00860368 4.00106 0.00837916 4.09007C0.025379 4.17914 0.0676362 4.26117 0.129277 4.3254C0.211785 4.41135 0.323646 4.45959 0.440351 4.4598H7.12641L5.89705 8C7.66083 6.39798 10.5065 4.88609 12.8 4.00047Z" fill="currentColor" />
@@ -353,7 +353,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="swiper-wrapper slide-transtion">
                        <div class="swiper-slide">
                            <div class="tp-text-cst-content">
-                              <h2 class="tp-text-cst-title tp-text-common-black fw-700 text-capitalize tp-ff-dm">De l'idée
+                              <h2 class="tp-text-cst-title tp-text-common-black fw-700 text-capitalize tp-ff-heading">De l'idée
                                  <span>
                                     <svg width="54" height="56" viewBox="0 0 54 56" fill="none" xmlns="http://www.w3.org/2000/svg">
                                        <path d="M49.5531 52.3138L30.8331 1.64509C30.5027 0.658035 29.6218 0 28.5206 0H25.4373C24.4462 0 23.4552 0.658035 23.1248 1.53542L4.29461 52.3138C3.96425 53.3008 2.97319 53.8492 1.98213 53.8492H0V55.3846H10.1309V53.8492H9.58027C7.9285 53.8492 6.7172 52.2041 7.2678 50.559L17.9493 21.1668C18.7201 18.9733 21.8034 19.083 22.5742 21.1668L32.4848 50.559C33.0354 52.0944 31.8241 53.7395 30.1724 53.7395V55.2749H53.0769V53.7395H51.8656C50.7644 53.9589 49.8835 53.3008 49.5531 52.3138Z" fill="#B4E717" />
@@ -364,7 +364,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        </div>
                        <div class="swiper-slide">
                            <div class="tp-text-cst-content">
-                              <h2 class="tp-text-cst-title tp-text-common-black fw-700 text-capitalize tp-ff-dm">à l'impact
+                              <h2 class="tp-text-cst-title tp-text-common-black fw-700 text-capitalize tp-ff-heading">à l'impact
                                  <span>
                                     <svg width="54" height="56" viewBox="0 0 54 56" fill="none" xmlns="http://www.w3.org/2000/svg">
                                        <path d="M49.5531 52.3138L30.8331 1.64509C30.5027 0.658035 29.6218 0 28.5206 0H25.4373C24.4462 0 23.4552 0.658035 23.1248 1.53542L4.29461 52.3138C3.96425 53.3008 2.97319 53.8492 1.98213 53.8492H0V55.3846H10.1309V53.8492H9.58027C7.9285 53.8492 6.7172 52.2041 7.2678 50.559L17.9493 21.1668C18.7201 18.9733 21.8034 19.083 22.5742 21.1668L32.4848 50.559C33.0354 52.0944 31.8241 53.7395 30.1724 53.7395V55.2749H53.0769V53.7395H51.8656C50.7644 53.9589 49.8835 53.3008 49.5531 52.3138Z" fill="#B4E717" />
@@ -375,7 +375,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        </div>
                        <div class="swiper-slide">
                            <div class="tp-text-cst-content">
-                              <h2 class="tp-text-cst-title tp-text-common-black fw-700 text-capitalize tp-ff-dm">De l'idée
+                              <h2 class="tp-text-cst-title tp-text-common-black fw-700 text-capitalize tp-ff-heading">De l'idée
                                  <span>
                                     <svg width="54" height="56" viewBox="0 0 54 56" fill="none" xmlns="http://www.w3.org/2000/svg">
                                        <path d="M49.5531 52.3138L30.8331 1.64509C30.5027 0.658035 29.6218 0 28.5206 0H25.4373C24.4462 0 23.4552 0.658035 23.1248 1.53542L4.29461 52.3138C3.96425 53.3008 2.97319 53.8492 1.98213 53.8492H0V55.3846H10.1309V53.8492H9.58027C7.9285 53.8492 6.7172 52.2041 7.2678 50.559L17.9493 21.1668C18.7201 18.9733 21.8034 19.083 22.5742 21.1668L32.4848 50.559C33.0354 52.0944 31.8241 53.7395 30.1724 53.7395V55.2749H53.0769V53.7395H51.8656C50.7644 53.9589 49.8835 53.3008 49.5531 52.3138Z" fill="#B4E717" />
@@ -386,7 +386,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        </div>
                         <div class="swiper-slide">
                            <div class="tp-text-cst-content">
-                              <h2 class="tp-text-cst-title tp-text-common-black fw-700 text-capitalize tp-ff-dm">à l'impact
+                              <h2 class="tp-text-cst-title tp-text-common-black fw-700 text-capitalize tp-ff-heading">à l'impact
                                  <span>
                                     <svg width="54" height="56" viewBox="0 0 54 56" fill="none" xmlns="http://www.w3.org/2000/svg">
                                        <path d="M49.5531 52.3138L30.8331 1.64509C30.5027 0.658035 29.6218 0 28.5206 0H25.4373C24.4462 0 23.4552 0.658035 23.1248 1.53542L4.29461 52.3138C3.96425 53.3008 2.97319 53.8492 1.98213 53.8492H0V55.3846H10.1309V53.8492H9.58027C7.9285 53.8492 6.7172 52.2041 7.2678 50.559L17.9493 21.1668C18.7201 18.9733 21.8034 19.083 22.5742 21.1668L32.4848 50.559C33.0354 52.0944 31.8241 53.7395 30.1724 53.7395V55.2749H53.0769V53.7395H51.8656C50.7644 53.9589 49.8835 53.3008 49.5531 52.3138Z" fill="#B4E717" />
@@ -411,9 +411,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-6">
                         <div class="tp-about-feature-info tp-bg-common-black h-100">
-                           <h2 class="fw-500 fs-60 fs-xl-50 fs-xs-35 lh-120-per tp-ff-dm tp-text-grey-5 mb-20 tp_fade_anim" data-delay=".3" data-fade-from="right">Ma boîte à outils</h2>
+                           <h2 class="fw-600 fs-60 fs-xl-50 fs-xs-35 lh-120-per tp-ff-heading tp-text-grey-5 mb-20 tp_fade_anim" data-delay=".3" data-fade-from="right">Ma boîte à outils</h2>
                            <div class="tp_fade_anim" data-delay=".4" data-fade-from="right">
-                              <p class="tp-ff-dm fs-18 lh-140-per tp-text-grey-6 mb-30">Pour donner vie à mes idées, j'utilise les logiciels suivants :</p>
+                              <p class="tp-ff-p fs-18 lh-140-per tp-text-grey-6 mb-30">Pour donner vie à mes idées, j'utilise les logiciels suivants :</p>
                            </div>
                            <div class="tp-service-cst-info-list mb-35 tp_fade_anim" data-delay=".5" data-fade-from="right">
                               <ul>
@@ -473,15 +473,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="row">
                      <div class="col-lg-5">
                         <div class="tp-service-cst-top-content mb-45 tp_fade_anim" data-delay=".4">
-                           <h4 class="tp-ff-dm fs-28 lh-130-per tp-text-common-black-5 mb-15">Mon Parcours</h4>
-                           <p class="tp-ff-dm fs-18 lh-150-per mb-25">Un chemin normand, entre passion et design.
+                           <h4 class="tp-ff-heading fs-28 lh-130-per tp-text-common-black-5 mb-15">Mon Parcours</h4>
+                           <p class="tp-ff-p fs-18 lh-150-per mb-25">Un chemin normand, entre passion et design.
                               Mon parcours m'a fait passer par la Manche, de Granville à Saint-Lô, avant de m'installer à Caen pour y affiner mon œil créatif. Chaque étape a nourri ma passion, fusionnant mes acquis techniques et ma vision du design.</p>
                            
                         </div>
                      </div>
                      <div class="col-lg-7">
                         <div class="tp-service-cst-title-wrap ml-25 mr-155 mb-45">
-                           <h2 class="tp-service-cst-title tp_text_invert invert-black tp-ff-dm tp-text-grey-5 fw-600 fs-50 fs-lg-40 fs-xs-30 lh-120-per">De la filière STI2D au Master DAD à Caen, mon parcours a fusionné technique et créativité.</h2>
+                           <h2 class="tp-service-cst-title tp_text_invert invert-black tp-ff-heading tp-text-grey-5 fw-600 fs-50 fs-lg-40 fs-xs-30 lh-120-per">De la filière STI2D au Master DAD à Caen, mon parcours a fusionné technique et créativité.</h2>
                         </div>
                      </div>
                      <div class="col-12">
@@ -494,8 +494,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           <img class="w-100" src="assets/img/service/cst/Granville.webp" alt="">
                                        </div>
                                        <div class="tp-service-cst-content tp-bg-common-white">
-                                          <h5 class="fw-600 fs-28 tp-ff-dm tp-text-common-black mb-15"><a class="underline-black" href="service-details-2-light.html">Granville</a></h5>
-                                          <p class="tp-service tp-ff-dm fs-18 lh-140-per tp-text-common-black">C'est au bord de la Manche que mon Bac STI2D a fait naître mon intérêt pour le design.</p>
+                                          <h5 class="fw-600 fs-28 tp-ff-heading tp-text-common-black mb-15"><a class="underline-black" href="service-details-2-light.html">Granville</a></h5>
+                                          <p class="tp-service tp-ff-p fs-18 lh-140-per tp-text-common-black">C'est au bord de la Manche que mon Bac STI2D a fait naître mon intérêt pour le design.</p>
                                          
                                        </div>
                                     </div>
@@ -506,8 +506,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           <img class="w-100" src="assets/img/service/cst/Saint-Lô.webp" alt="">
                                        </div>
                                        <div class="tp-service-cst-content tp-bg-common-white">
-                                          <h5 class="fw-600 fs-28 tp-ff-dm tp-text-common-black mb-15"><a class="underline-black" href="service-details-2-light.html">Saint-Lô</a></h5>
-                                          <p class="tp-service-cst tp-ff-dm fs-18 lh-140-per tp-text-common-black">Ensuite c'est au cœur de la Manche que mon BUT MMI a été l'étape où cet intérêt est devenu un savoir-faire.</p>
+                                          <h5 class="fw-600 fs-28 tp-ff-heading tp-text-common-black mb-15"><a class="underline-black" href="service-details-2-light.html">Saint-Lô</a></h5>
+                                          <p class="tp-service-cst tp-ff-p fs-18 lh-140-per tp-text-common-black">Ensuite c'est au cœur de la Manche que mon BUT MMI a été l'étape où cet intérêt est devenu un savoir-faire.</p>
                                          
                                        </div>
                                     </div>
@@ -518,8 +518,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           <img class="w-100" src="assets/img/service/cst/Caen.webp" alt="">
                                        </div>
                                        <div class="tp-service-cst-content tp-bg-common-white">
-                                          <h5 class="fw-600 fs-28 tp-ff-dm tp-text-common-black mb-15"><a class="underline-black" href="service-details-2-light.html">Caen</a></h5>
-                                          <p class="tp-service-cst tp-ff-dm fs-18 lh-140-per tp-text-common-black">Puis c'est dans la capitale normande, mon Master DAD me permet d'affiner mon regard pour l'avenir.</p>
+                                          <h5 class="fw-600 fs-28 tp-ff-heading tp-text-common-black mb-15"><a class="underline-black" href="service-details-2-light.html">Caen</a></h5>
+                                          <p class="tp-service-cst tp-ff-p fs-18 lh-140-per tp-text-common-black">Puis c'est dans la capitale normande, mon Master DAD me permet d'affiner mon regard pour l'avenir.</p>
 
                                        </div>
                                     </div>
@@ -539,9 +539,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-7">
                         <div class="tp-service-cst-info tp-service-cst-2-info ml-70 mb-40">
-                           <h2 class="fw-600 fs-35 lh-110-per tp-ff-dm tp-text-common-black mb-20 tp_fade_anim" data-delay=".3" data-fade-from="right">Bien plus que du design !</h2>
+                           <h2 class="fw-600 fs-35 lh-110-per tp-ff-heading tp-text-common-black mb-20 tp_fade_anim" data-delay=".3" data-fade-from="right">Bien plus que du design !</h2>
                            <div class="tp_fade_anim" data-delay=".4" data-fade-from="right">
-                              <p class="tp-ff-dm fs-18 lh-140-per mb-30">Je ne me contente pas d'aligner des pixels ou de monter des vidéos. Je cherche à rendre votre projet unique. <br>Mon approche est humaine avant d'être technique : on discute, on échange, et on construit ensemble <br> quelque chose qui vous ressemble vraiment.</p>
+                              <p class="tp-ff-p fs-18 lh-140-per mb-30">Je ne me contente pas d'aligner des pixels ou de monter des vidéos. Je cherche à rendre votre projet unique. <br>Mon approche est humaine avant d'être technique : on discute, on échange, et on construit ensemble <br> quelque chose qui vous ressemble vraiment.</p>
                            </div>
                            <div class="tp-service-cst-info-list mb-35 tp_fade_anim" data-delay=".5" data-fade-from="right">
                               <ul>
@@ -571,12 +571,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  </li>
                               </ul>
                            </div>
-                           <h2 class="fw-600 fs-35 lh-110-per tp-ff-dm tp-text-common-black mb-20 tp_fade_anim" data-delay=".6" data-fade-from="right">Signature du terroir</h2>
+                           <h2 class="fw-600 fs-35 lh-110-per tp-ff-heading tp-text-common-black mb-20 tp_fade_anim" data-delay=".6" data-fade-from="right">Signature du terroir</h2>
                            <div class="tp_fade_anim" data-delay=".7" data-fade-from="right">
-                              <p class="tp-ff-dm fs-18 lh-140-per mb-45">Ce tempérament manchot forge mon exigence :  je crée avec franchise et authenticité pour transformer <br>vos idées en réalisations concrètes. Découvrez ce savoir-faire en action.</p>
+                              <p class="tp-ff-p fs-18 lh-140-per mb-45">Ce tempérament manchot forge mon exigence :  je crée avec franchise et authenticité pour transformer <br>vos idées en réalisations concrètes. Découvrez ce savoir-faire en action.</p>
                            </div>
                            <div class="tp_fade_anim" data-delay=".8" data-fade-from="right">
-                              <a href="portfolio-interactive-with-hover.php" class="tp-btn-cst d-inline-block mr-5 lh-0 tp-round-26 fs-16 tp-bg-common-green-2 ls-0 tp-btn-switch-2-animation tp-text-common-black fw-700 tp-ff-dm">
+                              <a href="portfolio-interactive-with-hover.php" class="tp-btn-cst d-inline-block mr-5 lh-0 tp-round-26 fs-16 tp-bg-common-green-2 ls-0 tp-btn-switch-2-animation tp-text-common-black fw-700 tp-ff-heading">
                                  <span class="d-flex align-items-center justify-content-center">
                                     <span class="btn-text">Découvrez mon portfolio</span>
                                     <span class="btn-icon">
@@ -614,7 +614,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               </span>
                               <div>
                                  <h2 class="tp-ff-heading tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="8" class="purecounter">0</span>+</h2>
-                                 <span class="fs-500 fs-18 tp-ff-dm">Projets Achevés</span>
+                                 <span class="fs-500 fs-18 tp-ff-p">Projets Achevés</span>
                               </div>
                            </div>
                         </div>
@@ -629,7 +629,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               </span>
                               <div>
                                  <h2 class="tp-ff-heading tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="25" class="purecounter">0</span>+</h2>
-                                 <span class="fs-500 fs-18 tp-ff-dm">Défis Relevés</span>
+                                 <span class="fs-500 fs-18 tp-ff-p">Défis Relevés</span>
                               </div>
                            </div>
                         </div>
@@ -644,7 +644,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               </span>
                               <div>
                                  <h2 class="tp-ff-heading tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="12" class="purecounter">0</span>+</h2>
-                                 <span class="fs-500 fs-18 tp-ff-dm">Nouvelles Rencontres</span>
+                                 <span class="fs-500 fs-18 tp-ff-p">Nouvelles Rencontres</span>
                               </div>
                            </div>
                         </div>
@@ -659,7 +659,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               </span>
                               <div>
                                  <h2 class="tp-ff-heading tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="100" class="purecounter">0</span>%</h2>
-                                 <span class="fs-500 fs-18 tp-ff-dm">Des Détails Peaufinés</span>
+                                 <span class="fs-500 fs-18 tp-ff-p">Des Détails Peaufinés</span>
                               </div>
                            </div>
                         </div>
@@ -692,13 +692,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               <div class="row align-items-center">
                                  <div class="col-lg-6">
                                     <div class="tp-banner-cst-title mb-20">
-                                       <h2 class="fw-600 fs-52 fs-xs-35 tp-text-common-white tp-ff-dm mb-0">Rejoignez moi sur les réseaux</h2>
+                                       <h2 class="fw-600 fs-52 fs-xs-35 tp-text-common-white tp-ff-p mb-0">Rejoignez moi sur les réseaux</h2>
                                     </div>
                                  </div>
                                  <div class="col-lg-6">
                                     <div class="tp-hero-cst-btn-inner text-lg-end mb-5">
                                        <div class="tp_fade_anim d-inline-block" data-delay=".3" data-fade-from="top" data-ease="bounce">
-                                          <a href="service-details-2-light.html" class="tp-btn-cst mb-15 d-inline-block mr-5 lh-0 tp-round-26 fs-15 tp-bg-common-green-2 ls-0 tp-btn-switch-2-animation tp-text-common-black fw-700 tp-ff-dm">
+                                          <a href="service-details-2-light.html" class="tp-btn-cst mb-15 d-inline-block mr-5 lh-0 tp-round-26 fs-15 tp-bg-common-green-2 ls-0 tp-btn-switch-2-animation tp-text-common-black fw-700 tp-ff-heading">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text">Free Consulting</span>
                                                 <span class="btn-icon">

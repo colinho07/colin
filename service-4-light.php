@@ -294,7 +294,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="row mb-30">
                      <div class="col-lg-6">
                         <div class="tp-service-title-wrap mb-45">
-                           <span class="tp-section-subtitle tp-section-subtitle-cst tp-ff-dm fw-500 tp-text-common-black fs-16"><span class="borders d-inline-block"></span>Impact Visuel</span>
+                           <span class="tp-section-subtitle tp-section-subtitle-cst tp-ff-heading fw-500 tp-text-common-black fs-16"><span class="borders d-inline-block"></span>Impact Visuel</span>
                         </div>
                      </div>
                      <div class="col-lg-6">
@@ -307,7 +307,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="row gx-45">
                      <div class="col-lg-4 col-md-6">
                         <div class="tp-service-item tp-service-3-item p-relative mb-30">
-                           <h4 class="tp-service-item-title tp-ff-heading fw-600 fs-35 lh-130-per ls-m-4 tp-text-common-black mb-25">Photo</h4>
+                           <h4 class="tp-service-item-title tp-ff-heading fw-900 fs-35 lh-130-per ls-m-4 tp-text-common-black mb-25">Photo</h4>
                            <ul>
                               <li><a href="service-details-2-light.html">Reportages et événements</a></li>
                               <li><a href="service-details-2-light.html">Photographie de produits</a></li>
@@ -318,7 +318,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-4 col-md-6">
                         <div class="tp-service-item tp-service-3-item p-relative mb-30">
-                           <h4 class="tp-service-item-title tp-ff-heading fw-600 fs-35 lh-130-per ls-m-4 tp-text-common-black mb-25">Vidéo/Animation</h4>
+                           <h4 class="tp-service-item-title tp-ff-heading fw-900 fs-35 lh-130-per ls-m-4 tp-text-common-black mb-25">Vidéo/Animation</h4>
                            <ul>
                               <li><a href="service-details-2-light.html">Vidéos explicatives</a></li>
                               <li><a href="service-details-2-light.html">Montage dynamique</a></li>
@@ -329,7 +329,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-4 col-md-6">
                         <div class="tp-service-item tp-service-3-item p-relative mb-30">
-                           <h4 class="tp-service-item-title tp-ff-heading fw-600 fs-35 lh-130-per ls-m-4 tp-text-common-black mb-25">Montage/Édition</h4>
+                           <h4 class="tp-service-item-title tp-ff-heading fw-900 fs-35 lh-130-per ls-m-4 tp-text-common-black mb-25">Montage/Édition</h4>
                            <ul>
                               <li><a href="service-details-2-light.html">Étalonnage des couleurs</a></li>
                               <li><a href="service-details-2-light.html">Design sonore (Mixage)</a></li>
@@ -353,7 +353,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <div class="row">
                         <div class="col-xxl-4 col-xl-5 col-lg-6">
                            <div class="tp-video-content tp-bg-common-black tp-round-20 mr-60">
-                              <h4 class="tp-text-common-white tp-ff-dm fw-500 fs-25 fs-xs-20 lh-140-per mb-50">On dit qu'une image vaut mille mots, alors imaginez le pouvoir d'une vidéo ! <span class="tp-hero-bottom-border mb-40">
+                              <h4 class="tp-text-common-white tp-ff-heading fw-500 fs-25 fs-xs-20 lh-140-per mb-50">On dit qu'une image vaut mille mots, alors imaginez le pouvoir d'une vidéo ! <span class="tp-hero-bottom-border mb-40">
                                  <svg viewBox="0 0 324 2" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M0 1L324 1.00003" stroke="white" stroke-opacity="0.15" />
                                  </svg>
@@ -366,7 +366,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         </svg>
                                     </span>
                                  </a>
-                                 <p class="tp-ff-dm lh-110-per mb-0 fw-700 fs-18 tp-text-common-white">Découvrez mes réalisations</p>
+                                 <p class="tp-ff-heading lh-110-per mb-0 fw-700 fs-18 tp-text-common-white">Découvrez mes réalisations</p>
                               </div>
                            </div>
                         </div>

@@ -5650,8 +5650,9 @@ only screen and (min-width: 768px) and (max-width: 991px) {
   display: inline-block;
   color: #414144;
   font-size: 16px;
+  font-weight: 300;
   position: relative;
-  font-family: var(--tp-ff-inter);
+  font-family: var(--tp-ff-p);
 }
 
 .tp-offcanvas-contact ul li a::after {
@@ -5693,10 +5694,10 @@ only screen and (min-width: 768px) and (max-width: 991px) {
 
 .tp-offcanvas-content p {
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 300;
   line-height: 24px;
   color: #414144;
-  font-family: var(--tp-ff-inter);
+  font-family: var(--tp-ff-p);
 }
 
 .tp-offcanvas-2-area {
@@ -13893,7 +13894,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 
 .tp-about-cst-tab ul li a {
-  font-family: var(--tp-ff-dm);
+  font-family: var(--tp-ff-heading);
   font-weight: 700;
   color: var(--tp-common-black);
 }
@@ -13960,8 +13961,8 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 
 .tp-about-cst-list ul li {
-  font-family: var(--tp-ff-dm);
-  font-weight: 500;
+  font-family: var(--tp-ff-p);
+  font-weight: 400;
   font-size: 14px;
   color: var(--tp-common-black-1);
   display: flex;
@@ -14704,7 +14705,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 
 .tp-service-item-title {
-  font-weight: 500;
+  font-weight: 600;
   font-size: 35px;
   line-height: 129%;
   text-transform: uppercase;
@@ -14940,8 +14941,8 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 
 .tp-service-3-item ul li a {
-  font-family: var(--tp-ff-heading);
-  font-weight: 400;
+  font-family: var(--tp-ff-p);
+  font-weight: 300;
   font-size: 25px;
   line-height: 140%;
   padding-left: 15px;
@@ -15418,7 +15419,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 
 .tp-service-cst-info-list ul li {
-  font-family: var(--tp-ff-dm);
+  font-family: var(--tp-ff-heading);
   font-weight: 500;
   font-size: 18px;
   list-style: none;

@@ -235,7 +235,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               <span class="tp-ff-heading fw-500 fs-35 fs-xs-25 tp-text-common-black d-inline-block mb-35">Je m’appelle Colin et je suis,</span>
                               <h2 class="tp-hero-pp-title fw-600 fs-100 fs-xl-80 fs-lg-70 fs-xs-40 lh-1 text-uppercase mb-45">Graphiste <br>
                                 <img src="assets/img/hero/pp/bg.webp" alt=""> Designer.</h2>
-                              <p class="tp-hero-pp-para tp-ff-dm fw-500 fs-25 tp-text-grey-1 lh-130-per">J’imagine et je réalise vos projets sur tous les supports :<br> <strong>Print</strong>, <strong>Web</strong>, <strong>Vidéo</strong>, <strong>3D</strong> et <strong>Réseaux Sociaux</strong>.</p>
+                              <p class="tp-hero-pp-para tp-ff-p fw-300 fs-25 tp-text-grey-1 lh-130-per">J’imagine et je réalise vos projets sur tous les supports :<br> <strong>Print</strong>, <strong>Web</strong>, <strong>Vidéo</strong>, <strong>3D</strong> et <strong>Réseaux Sociaux</strong>.</p>
                            </div>
                            <span class="tp-ff-heading fw-500 fs-18 tp-text-common-black mb-10 d-inline-block">Prêt pour une collaboration ?</span>
                            <div class="tp-hero-pp-social d-flex flex-wrap">
