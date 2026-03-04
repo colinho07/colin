@@ -217,7 +217,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="row pb-45">
                      <div class="col-lg-7">
                         <div class="tp-service-hero-left p-relative mb-40">
-                           <h2 class="fs-70 fs-lg-60 fs-xs-40 fw-700 ls-m-3 lh-110-per tp-ff-dm">Et si la réalité n'était plus une limite pour vos idées ?</h2>
+                           <h2 class="fs-70 fs-lg-60 fs-xs-40 fw-700 ls-m-3 lh-110-per tp-ff-heading">Et si la réalité n'était plus une limite pour <br>vos idées ?</h2>
                            <span class="tp-service-hero-shape tpswing d-none d-sm-inline-block">
                               <svg width="52" height="94" viewBox="0 0 52 94" fill="none" xmlns="http://www.w3.org/2000/svg">
                                  <path d="M1 16.1098C5.58433 24.0984 22.6118 44.5692 38.3295 38.0785C46.3521 34.5835 58.2264 23.6551 45.206 5.12554C40.2943 -1.86444 30.6673 -0.666183 25.559 14.1127C22.6118 22.6393 15.2441 43.0714 22.612 61.0456C26.5006 70.5321 38.1332 85.2111 49.1356 90.0043M49.1356 90.0043C44.0601 87.3414 32.8285 84.2126 28.5061 93M49.1356 90.0043C45.8611 88.1736 40.0979 80.8174 43.2414 66.0385M10.2322 38.0785C9.38015 41.6962 8.2675 54.4237 15.144 64.4094" stroke="#030303" stroke-width="1.5" />
@@ -227,7 +227,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-5">
                         <div class="tp-service-hero-right mt-130">
-                           <p class="tp-section-3-para fs-20 lh-140-per tp-ff-dm">La 3D est l'outil de liberté absolue. Que ce soit pour donner vie à un produit complexe, créer un décor imaginaire ou simuler un projet architectural, je sculpte vos concepts en volume pour offrir une perspective inédite et spectaculaire.</p>
+                           <p class="tp-section-3-para fs-20 lh-140-per tp-ff-p">La 3D est l'outil de liberté absolue. Que ce soit pour donner vie à un produit complexe, créer un décor imaginaire ou simuler un projet architectural, je sculpte vos concepts en volume pour offrir une perspective inédite et spectaculaire.</p>
                         </div>
                      </div>
                   </div>
@@ -267,8 +267,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-5 mb-40">
                         <div class="tp-portfolio-cst-content h-100">
-                           <h2 class="tp-ff-dm fw-600 tp-text-common-black mb-15 fs-lg-45">Mes Compétences 3D :</h2>
-                           <p class="fs-18 lh-140-per tp-ff-dm mb-95">Attentif aux détails et au réalisme, je mets mon savoir-faire au service de votre vision pour créer des rendus qui marquent les esprits.</p>
+                           <h2 class="tp-ff-heading fw-600 tp-text-common-black mb-15 fs-lg-45">Mes Compétences 3D :</h2>
+                           <p class="fs-18 lh-140-per tp-ff-p mb-95">Attentif aux détails et au réalisme, je mets mon savoir-faire au service de votre vision pour créer des rendus qui marquent les esprits.</p>
                            <div class="tp-portfolio-cst-sales-wrap fix p-relative h-100">
                               <div class="tp-portfolio-cst-img-wrapper image-container ">
                                  <div class="hover-image active">
@@ -294,8 +294,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="tp-portfolio-cst-list-wrap pt-10 ml-40">
                            <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center active"  data-img="assets/img/portfolio/cst/packshot.webp">
                               <div class="tp-portfolio-cst-text mb-15">
-                                 <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-dm d-inline-block tp-bg-common-white-2">Packshot</span>
-                                 <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-dm"><a href="service-details-2-light.html">Sublimer vos produits</a></h4>
+                                 <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-heading d-inline-block tp-bg-common-white-2">Packshot</span>
+                                 <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-heading"><a href="service-details-2-light.html">Sublimer vos produits</a></h4>
                               </div>
                               <a class="tp-portfolio-cst-btn mb-15" href="service-details-2-light.html">
                                  <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -305,8 +305,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            </div>
                            <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center"  data-img="assets/img/portfolio/cst/mouvement.webp">
                               <div class="tp-portfolio-cst-text mb-15">
-                                 <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-dm d-inline-block tp-bg-common-white-2">Motion 3D</span>
-                                 <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-dm"><a href="service-details-2-light.html">Créer le mouvement</a></h4>
+                                 <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-heading d-inline-block tp-bg-common-white-2">Motion 3D</span>
+                                 <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-heading"><a href="service-details-2-light.html">Créer le mouvement</a></h4>
                               </div>
                               <a class="tp-portfolio-cst-btn mb-15" href="service-details-2-light.html">
                                  <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -316,8 +316,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            </div>
                            <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center"  data-img="assets/img/portfolio/cst/interface.webp">
                               <div class="tp-portfolio-cst-text mb-15">
-                                 <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-dm d-inline-block tp-bg-common-white-2">Web Design</span>
-                                 <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-dm"><a href="service-details-2-light.html">Dynamiser vos interfaces</a></h4>
+                                 <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-heading d-inline-block tp-bg-common-white-2">Web Design</span>
+                                 <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-heading"><a href="service-details-2-light.html">Dynamiser vos interfaces</a></h4>
                               </div>
                               <a class="tp-portfolio-cst-btn mb-15" href="service-details-2-light.html">
                                  <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -327,8 +327,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            </div>
                            <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center"  data-img="assets/img/portfolio/cst/scénographie.webp">
                               <div class="tp-portfolio-cst-text mb-15">
-                                 <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-dm d-inline-block tp-bg-common-white-2">Set Design</span>
-                                 <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-dm"><a href="service-details-2-light.html">Scénographier vos univers</a></h4>
+                                 <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-heading d-inline-block tp-bg-common-white-2">Set Design</span>
+                                 <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-heading"><a href="service-details-2-light.html">Scénographier vos univers</a></h4>
                               </div>
                               <a class="tp-portfolio-cst-btn mb-15" href="service-details-2-light.html">
                                  <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -338,8 +338,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            </div>
                            <div class="tp-portfolio-cst-item portfolio-item d-flex justify-content-between align-items-center"  data-img="assets/img/portfolio/cst/immersion.webp">
                               <div class="tp-portfolio-cst-text mb-15">
-                                 <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-dm d-inline-block tp-bg-common-white-2">Web & Interactif</span>
-                                 <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-dm"><a href="service-details-2-light.html">L'immersion digitale</a></h4>
+                                 <span class="tp-portfolio-cst-tag mb-20 fw-500 tp-text-grey-1 tp-ff-heading d-inline-block tp-bg-common-white-2">Web & Interactif</span>
+                                 <h4 class="tp-portfolio-cst-title fw-600 fs-28 tp-ff-heading"><a href="service-details-2-light.html">L'immersion digitale</a></h4>
                               </div>
                               <a class="tp-portfolio-cst-btn mb-15" href="service-details-2-light.html">
                                  <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -368,7 +368,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  </svg>
                               </span>
                               <div>
-                                 <h2 class="tp-ff-dm tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="80" class="purecounter">0</span>+</h2>
+                                 <h2 class="tp-ff-heading tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="80" class="purecounter">0</span>+</h2>
                                  <span class="fs-500 fs-18 tp-ff-dm">Idées modélisées</span>
                               </div>
                            </div>
@@ -383,7 +383,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  </svg>
                               </span>
                               <div>
-                                 <h2 class="tp-ff-dm tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="500" class="purecounter">0</span>H</h2>
+                                 <h2 class="tp-ff-heading tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="500" class="purecounter">0</span>H</h2>
                                  <span class="fs-500 fs-18 tp-ff-dm">de calcul rendu</span>
                               </div>
                            </div>
@@ -398,7 +398,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  </svg>
                               </span>
                               <div>
-                                 <h2 class="tp-ff-dm tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="2" class="purecounter">0</span> ans</h2>
+                                 <h2 class="tp-ff-heading tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="2" class="purecounter">0</span> ans</h2>
                                  <span class="fs-500 fs-18 tp-ff-dm">d'expérience sur Blender</span>
                               </div>
                            </div>
@@ -413,7 +413,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  </svg>
                               </span>
                               <div>
-                                 <h2 class="tp-ff-dm tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="100" class="purecounter">0</span>%</h2>
+                                 <h2 class="tp-ff-heading tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="100" class="purecounter">0</span>%</h2>
                                  <span class="fs-500 fs-18 tp-ff-dm">de satisfaction</span>
                               </div>
                            </div>

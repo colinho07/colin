@@ -223,7 +223,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="row pb-45">
                      <div class="col-lg-7">
                         <div class="tp-service-hero-left p-relative mb-40">
-                           <h2 class="fs-70 fs-lg-60 fs-xs-40 fw-700 ls-m-3 lh-110-per tp-ff-dm">Comment arrêter le scroll de votre audience ?</h2>
+                           <h2 class="fs-70 fs-lg-60 fs-xs-40 fw-700 ls-m-3 lh-110-per tp-ff-heading">Comment arrêter le scroll de votre audience ?</h2>
                            <span class="tp-service-hero-shape tpswing d-none d-sm-inline-block">
                               <svg width="52" height="94" viewBox="0 0 52 94" fill="none" xmlns="http://www.w3.org/2000/svg">
                                  <path d="M1 16.1098C5.58433 24.0984 22.6118 44.5692 38.3295 38.0785C46.3521 34.5835 58.2264 23.6551 45.206 5.12554C40.2943 -1.86444 30.6673 -0.666183 25.559 14.1127C22.6118 22.6393 15.2441 43.0714 22.612 61.0456C26.5006 70.5321 38.1332 85.2111 49.1356 90.0043M49.1356 90.0043C44.0601 87.3414 32.8285 84.2126 28.5061 93M49.1356 90.0043C45.8611 88.1736 40.0979 80.8174 43.2414 66.0385M10.2322 38.0785C9.38015 41.6962 8.2675 54.4237 15.144 64.4094" stroke="#030303" stroke-width="1.5" />
@@ -233,7 +233,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-5">
                         <div class="tp-service-hero-right mt-130">
-                           <p class="tp-section-3-para fs-20 lh-140-per tp-ff-dm">Dans un flux infini de contenus, le mouvement est votre meilleur allié. Je donne une âme à vos rushs pour transformer un simple visionnage en une expérience mémorable et humaine.</p>
+                           <p class="tp-section-3-para fs-20 lh-140-per tp-ff-p">Dans un flux infini de contenus, le mouvement est votre meilleur allié. Je donne une âme à vos rushs pour transformer un simple visionnage en une expérience mémorable et humaine.</p>
                         </div>
                      </div>
                   </div>
@@ -263,18 +263,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <div class="row">
                         <div class="col-lg-4">
                            <div class="mb-10">
-                              <span class="tp-ff-dm fw-500 fs-20 lh-140-per ls-m-4 tp-text-common-black">Mes outils de prédilection :</span>
+                              <span class="tp-ff-heading fw-500 fs-20 lh-140-per ls-m-4 tp-text-common-black">Mes outils de prédilection :</span>
                            </div>
                         </div>
                         <div class="col-lg-8">
                            <div class="tp-breadcrumb-banner-list d-flex flex-wrap">
-                              <span class="tp-ff-dm fw-500 fs-20 lh-140-per ls-m-4 tp-text-common-black mr-30 mb-10 d-flex">
+                              <span class="tp-ff-heading fw-500 fs-20 lh-140-per ls-m-4 tp-text-common-black mr-30 mb-10 d-flex">
                                  <svg width="19" height="15" viewBox="0 0 19 15" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M18.7503 0.276674L7.8072 14.7403C7.57495 15.0311 7.22607 15.0888 6.93501 14.8568C6.87645 14.799 6.87645 14.799 6.81763 14.7403L0.0258056 5.79766C-0.032257 5.7399 0.0258056 5.68214 0.0258056 5.68214C0.083618 5.62438 0.141681 5.68214 0.141681 5.68214L7.23308 10.8441L18.4597 0.0438828C18.5175 -0.0146276 18.6341 -0.0146276 18.6919 0.0438828C18.7503 0.101393 18.7503 0.217914 18.7503 0.276674Z" fill="#030303" />
                                  </svg>
                                Appareil photo Hybride Lumix G9II
                               </span>
-                              <span class="tp-ff-dm fw-500 fs-20 lh-140-per ls-m-4 tp-text-common-black mb-10 d-flex">
+                              <span class="tp-ff-heading fw-500 fs-20 lh-140-per ls-m-4 tp-text-common-black mb-10 d-flex">
                                  <svg width="19" height="15" viewBox="0 0 19 15" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M18.7503 0.276674L7.8072 14.7403C7.57495 15.0311 7.22607 15.0888 6.93501 14.8568C6.87645 14.799 6.87645 14.799 6.81763 14.7403L0.0258056 5.79766C-0.032257 5.7399 0.0258056 5.68214 0.0258056 5.68214C0.083618 5.62438 0.141681 5.68214 0.141681 5.68214L7.23308 10.8441L18.4597 0.0438828C18.5175 -0.0146276 18.6341 -0.0146276 18.6919 0.0438828C18.7503 0.101393 18.7503 0.217914 18.7503 0.276674Z" fill="#030303" />
                                  </svg>
@@ -299,15 +299,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-6">
                         <div class="mb-45">
-                           <h2 class="tp-section-title mb-25 tp-ff-dm fs-72 fs-xl-60 fs-lg-50 fw-600 tp-text-common-black">Ce que nous pouvons créer ensemble</h2>
-                           <p class="tp-section-3-para tp-ff-dm tp-text-common-black-5 opacity-8 fs-18 lh-150-per">Voici un aperçu de ce que je peux livrer grâce à la combinaison de mes outils et de mon savoir-faire :</p>
+                           <h2 class="tp-section-title mb-25 tp-ff-heading fs-72 fs-xl-60 fs-lg-60 fw-700 tp-text-common-black">Ce que nous pouvons créer ensemble</h2>
+                           <p class="tp-ff-heading fs-25 fw-500 tp-text-grey-1 tp-service-para">Voici un aperçu de ce que je peux livrer grâce à la combinaison de mes outils et de mon savoir-faire :</p>
                         </div>
                      </div>
                   </div>
                   <div class="row gx-45">
                      <div class="col-lg-4 col-md-6">
                         <div class="tp-service-item tp-service-3-item p-relative mb-30">
-                           <h4 class="tp-ff-dm fw-600 fs-35 lh-130-per ls-m-4 tp-text-common-black mb-25">Photo</h4>
+                           <h4 class="tp-service-item-title tp-ff-heading fw-600 fs-35 lh-130-per ls-m-4 tp-text-common-black mb-25">Photo</h4>
                            <ul>
                               <li><a href="service-details-2-light.html">Reportages et événements</a></li>
                               <li><a href="service-details-2-light.html">Photographie de produits</a></li>
@@ -318,7 +318,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-4 col-md-6">
                         <div class="tp-service-item tp-service-3-item p-relative mb-30">
-                           <h4 class="tp-ff-dm fw-600 fs-35 lh-130-per ls-m-4 tp-text-common-black mb-25">Vidéo/Animation</h4>
+                           <h4 class="tp-service-item-title tp-ff-heading fw-600 fs-35 lh-130-per ls-m-4 tp-text-common-black mb-25">Vidéo/Animation</h4>
                            <ul>
                               <li><a href="service-details-2-light.html">Vidéos explicatives</a></li>
                               <li><a href="service-details-2-light.html">Montage dynamique</a></li>
@@ -329,7 +329,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-4 col-md-6">
                         <div class="tp-service-item tp-service-3-item p-relative mb-30">
-                           <h4 class="tp-service-item-titletp-ff-dm fw-600 fs-35 lh-130-per ls-m-4 tp-text-common-black mb-25">Montage/Édition</h4>
+                           <h4 class="tp-service-item-title tp-ff-heading fw-600 fs-35 lh-130-per ls-m-4 tp-text-common-black mb-25">Montage/Édition</h4>
                            <ul>
                               <li><a href="service-details-2-light.html">Étalonnage des couleurs</a></li>
                               <li><a href="service-details-2-light.html">Design sonore (Mixage)</a></li>

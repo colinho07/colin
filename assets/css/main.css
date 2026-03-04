@@ -6456,7 +6456,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 
 .tp-breadcrumb-2-list ul li {
-  font-family: var(--tp-ff-dm);
+  font-family: var(--tp-ff-heading);
   color: var(--tp-common-black-5);
 }
 
@@ -7768,7 +7768,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 
 .tp-main-menu-ai>nav>ul>li>a {
-  font-family: var(--tp-ff-dm);
+  font-family: var(--tp-ff-heading);
   color: var(--tp-common-black-5);
   padding: 7px 25px;
   border-radius: 50px;
@@ -14940,7 +14940,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 
 .tp-service-3-item ul li a {
-  font-family: var(--tp-ff-dm);
+  font-family: var(--tp-ff-heading);
   font-weight: 400;
   font-size: 25px;
   line-height: 140%;
@@ -18101,7 +18101,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 
 .tp-portfolio-slicer-category {
   font-size: 40px;
-  font-family: var(--tp-ff-inter);
+  font-family: var(--tp-ff-p);
   margin-bottom: 36px;
   display: inline-block;
   color: var(--tp-common-white);
@@ -27247,14 +27247,14 @@ only screen and (min-width: 576px) and (max-width: 767px),
 
 .tp-porfolio-10-title {
   font-size: 120px;
-  font-weight: 800;
+  font-weight: 1000;
   line-height: 1;
   opacity: 0.06;
   transition: 0.4s;
   margin-bottom: 0;
   letter-spacing: -2.6px;
   color: var(--tp-common-white);
-  font-family: var(--tp-ff-teko);
+  font-family: var(--tp-ff-heading);
   z-index: 2;
 }
 
@@ -27306,7 +27306,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
   margin-left: 15px;
   transform: translateY(-12px);
   color: var(--tp-common-white);
-  font-family: var(--tp-ff-teko);
+  font-family: var(--tp-ff-p);
   transition: 0.4s;
   opacity: 0.06;
 }

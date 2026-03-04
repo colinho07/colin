@@ -332,7 +332,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                       On crée un projet qui vous ressemble.
                                     </li>
                                  </ul>
-                                 <a class="tp-about-cst-list-btn tp-bg-common-black text-capitalize d-flex justify-content-between align-items-center tp-text-grey-5 fw-700 fs-14 tp-ff-dm" href="contact-light.php">
+                                 <a class="tp-about-cst-list-btn tp-bg-common-black d-flex justify-content-between align-items-center tp-text-grey-5 fw-700 fs-14 tp-ff-dm" href="contact-light.php">
                                    On se lance ?
                                     <svg width="13" height="8" viewBox="0 0 13 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                                        <path d="M12.8 4.00047C10.5066 3.11428 7.66113 1.60168 5.89705 0L7.12686 3.54162H0.440804C0.353649 3.54164 0.268309 3.56806 0.195839 3.61849C0.123344 3.66894 0.0671054 3.74115 0.033736 3.82504C0.000415994 3.90889 -0.00860368 4.00106 0.00837916 4.09007C0.025379 4.17914 0.0676362 4.26117 0.129277 4.3254C0.211785 4.41135 0.323646 4.45959 0.440351 4.4598H7.12641L5.89705 8C7.66083 6.39798 10.5065 4.88609 12.8 4.00047Z" fill="currentColor" />
@@ -573,7 +573,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            </div>
                            <h2 class="fw-600 fs-35 lh-110-per tp-ff-dm tp-text-common-black mb-20 tp_fade_anim" data-delay=".6" data-fade-from="right">Signature du terroir</h2>
                            <div class="tp_fade_anim" data-delay=".7" data-fade-from="right">
-                              <p class="tp-ff-dm fs-18 lh-140-per mb-45">Ce tempérament manchot forge mon exigence :  je crée avec franchise et authenticité pour transformer vos idées en réalisations concrètes. Découvrez ce savoir-faire en action.</p>
+                              <p class="tp-ff-dm fs-18 lh-140-per mb-45">Ce tempérament manchot forge mon exigence :  je crée avec franchise et authenticité pour transformer <br>vos idées en réalisations concrètes. Découvrez ce savoir-faire en action.</p>
                            </div>
                            <div class="tp_fade_anim" data-delay=".8" data-fade-from="right">
                               <a href="portfolio-interactive-with-hover.php" class="tp-btn-cst d-inline-block mr-5 lh-0 tp-round-26 fs-16 tp-bg-common-green-2 ls-0 tp-btn-switch-2-animation tp-text-common-black fw-700 tp-ff-dm">
@@ -613,7 +613,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  </svg>
                               </span>
                               <div>
-                                 <h2 class="tp-ff-dm tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="8" class="purecounter">0</span>+</h2>
+                                 <h2 class="tp-ff-heading tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="8" class="purecounter">0</span>+</h2>
                                  <span class="fs-500 fs-18 tp-ff-dm">Projets Achevés</span>
                               </div>
                            </div>
@@ -628,7 +628,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  </svg>
                               </span>
                               <div>
-                                 <h2 class="tp-ff-dm tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="25" class="purecounter">0</span>+</h2>
+                                 <h2 class="tp-ff-heading tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="25" class="purecounter">0</span>+</h2>
                                  <span class="fs-500 fs-18 tp-ff-dm">Défis Relevés</span>
                               </div>
                            </div>
@@ -643,7 +643,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  </svg>
                               </span>
                               <div>
-                                 <h2 class="tp-ff-dm tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="12" class="purecounter">0</span>+</h2>
+                                 <h2 class="tp-ff-heading tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="12" class="purecounter">0</span>+</h2>
                                  <span class="fs-500 fs-18 tp-ff-dm">Nouvelles Rencontres</span>
                               </div>
                            </div>
@@ -658,7 +658,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  </svg>
                               </span>
                               <div>
-                                 <h2 class="tp-ff-dm tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="100" class="purecounter">0</span>%</h2>
+                                 <h2 class="tp-ff-heading tp-text-common-black fw-700 fs-62 text-uppercase"><span data-purecounter-duration="1" data-purecounter-end="100" class="purecounter">0</span>%</h2>
                                  <span class="fs-500 fs-18 tp-ff-dm">Des Détails Peaufinés</span>
                               </div>
                            </div>
