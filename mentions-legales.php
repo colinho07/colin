@@ -205,8 +205,8 @@
                   <div class="row">
                      <div class="col-xl-12 col-lg-12 col-md-9">
                         <div class="tp-pricing-ai-title-wrap">
-                           <h2 class="tp-section-ai-title fs-72 fs-xl-65 fs-lg-55 fs-sm-45 fs-xs-40 fw-600 ls-m-4 tp-ff-dm mb-15 tp-text-common-black-6">Mentions Légales</h2>
-                           <p class="tp-section-ai-para tp-ff-dm mb-55 fw-400 fs-22 ls-m-2 lh-150-per tp-text-common-black-6">Vous trouverez ici l'ensemble des informations juridiques relatives à <br> l'exploitation de ce portfolio et à la protection de vos données.</p>
+                           <h2 class="tp-section-ai-title fs-72 fs-xl-65 fs-lg-55 fs-sm-45 fs-xs-40 fw-600 ls-m-4 tp-ff-heading mb-15 tp-text-common-black-6">Mentions Légales</h2>
+                           <p class="tp-section-ai-para tp-ff-p mb-55 fw-400 fs-22 ls-m-2 lh-150-per tp-text-common-black-6">Vous trouverez ici l'ensemble des informations juridiques relatives à <br> l'exploitation de ce portfolio et à la protection de vos données.</p>
                            <div class="tp-breadcrumb-list tp-breadcrumb-2-list tp-breadcrumb-3-border pt-25">
                               <ul>
                                  <li><a href="index.html">Accueil</a></li>
@@ -230,8 +230,8 @@
             <div class="tp-team-details-title-wrap ml-35">
         
                
-               <h3 class="tp-ff-dm fw-600 fs-30 mb-20 tp-text-common-black-6">1. Édition du site</h3>
-               <p class="tp-section-ai-para tp-ff-dm mb-35 fw-400 fs-20 ls-m-2 lh-150-per tp-text-common-black-6">
+               <h3 class="tp-ff-heading fw-600 fs-30 mb-20 tp-text-common-black-6">1. Édition du site</h3>
+               <p class="tp-section-ai-para tp-ff-p mb-35 fw-400 fs-20 ls-m-2 lh-150-per tp-text-common-black-6">
                   En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé aux utilisateurs du site l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi :<br><br>
                   <strong>Propriétaire du site :</strong> Colin Noël<br>
                   <strong>Contact :</strong> noel_colin@icloud.com<br>
@@ -245,8 +245,8 @@
       <div class="row align-items-center mb-80">
          <div class="col-lg-12">
             <div class="tp-team-details-title-wrap ml-35">
-               <h3 class="tp-ff-dm fw-600 fs-30 mb-20 tp-text-common-black-6">2. Hébergement & Publication</h3>
-               <p class="tp-section-ai-para tp-ff-dm mb-35 fw-400 fs-20 ls-m-2 lh-150-per tp-text-common-black-6">
+               <h3 class="tp-ff-heading fw-600 fs-30 mb-20 tp-text-common-black-6">2. Hébergement & Publication</h3>
+               <p class="tp-section-ai-para tp-ff-p mb-35 fw-400 fs-20 ls-m-2 lh-150-per tp-text-common-black-6">
                   <strong>Directeur de la publication :</strong> Colin Noël<br>
                   <strong>Hébergeur :</strong> OVH<br>
                   <strong>Adresse de l'hébergeur :</strong> 2, rue Kellermann, 59100 Roubaix
@@ -258,8 +258,8 @@
       <div class="row align-items-center mb-80">
          <div class="col-lg-12">
             <div class="tp-team-details-title-wrap ml-35">
-               <h3 class="tp-ff-dm fw-600 fs-30 mb-20 tp-text-common-black-6">3. Propriété intellectuelle et contrefaçons</h3>
-               <p class="tp-section-ai-para tp-ff-dm mb-35 fw-400 fs-20 ls-m-2 lh-150-per tp-text-common-black-6">
+               <h3 class="tp-ff-heading fw-600 fs-30 mb-20 tp-text-common-black-6">3. Propriété intellectuelle et contrefaçons</h3>
+               <p class="tp-section-ai-para tp-ff-p mb-35 fw-400 fs-20 ls-m-2 lh-150-per tp-text-common-black-6">
                   Colin Noël est propriétaire des droits de propriété intellectuelle ou détient les droits d’usage sur tous les éléments accessibles sur le site internet, notamment les textes, images, graphismes, logos, vidéos, architecture, icônes et sons.<br><br>
                   Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de Colin Noël. Toute exploitation non autorisée sera considérée comme constitutive d’une contrefaçon et poursuivie conformément aux dispositions des articles L.335-2 et suivants du Code de Propriété Intellectuelle.
                </p>
@@ -270,8 +270,8 @@
       <div class="row align-items-center mb-80">
          <div class="col-lg-12">
             <div class="tp-team-details-title-wrap ml-35">
-               <h3 class="tp-ff-dm fw-600 fs-30 mb-20 tp-text-common-black-6">4. Limitations de responsabilité & RGPD</h3>
-               <p class="tp-section-ai-para tp-ff-dm mb-35 fw-400 fs-20 ls-m-2 lh-150-per tp-text-common-black-6">
+               <h3 class="tp-ff-heading fw-600 fs-30 mb-20 tp-text-common-black-6">4. Limitations de responsabilité & RGPD</h3>
+               <p class="tp-section-ai-para tp-ff-p mb-35 fw-400 fs-20 ls-m-2 lh-150-per tp-text-common-black-6">
                   <strong>Responsabilité :</strong> Colin Noël ne pourra être tenu pour responsable des dommages directs et indirects causés au matériel de l’utilisateur lors de l’accès au site.<br><br>
                   <strong>Données personnelles :</strong> Conformément aux dispositions de la loi 78-17 du 6 janvier 1978 modifiée, l’utilisateur du site dispose d’un droit d’accès, de modification et de suppression des informations collectées. Pour exercer ce droit, envoyez un message à noel_colin@icloud.com.<br><br>
                   <strong>Cookies :</strong> La navigation sur le site est susceptible de provoquer l’installation de cookie(s) sur l’ordinateur de l’utilisateur pour améliorer l’expérience de navigation et mesurer l’audience.
@@ -283,8 +283,8 @@
       <div class="row align-items-center">
          <div class="col-lg-12">
             <div class="tp-team-details-title-wrap ml-35">
-               <h3 class="tp-ff-dm fw-600 fs-30 mb-20 tp-text-common-black-6">5. Droit applicable et attribution de juridiction</h3>
-               <p class="tp-section-ai-para tp-ff-dm mb-35 fw-400 fs-20 ls-m-2 lh-150-per tp-text-common-black-6">
+               <h3 class="tp-ff- heading fw-600 fs-30 mb-20 tp-text-common-black-6">5. Droit applicable et attribution de juridiction</h3>
+               <p class="tp-section-ai-para tp-ff-p mb-35 fw-400 fs-20 ls-m-2 lh-150-per tp-text-common-black-6">
                   Tout litige en relation avec l’utilisation du site est soumis au droit français. En dehors des cas où la loi ne le permet pas, il est fait attribution exclusive de juridiction aux tribunaux compétents de Coutances.
                </p>
             </div>

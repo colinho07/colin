@@ -20927,7 +20927,7 @@ only screen and (min-width: 768px) and (max-width: 991px) {
   margin-right: 10px;
   display: inline-block;
   color: var(--tp-common-black);
-  font-family: var(--tp-ff-inter);
+  font-family: var(--tp-ff-heading);
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
@@ -20962,11 +20962,11 @@ only screen and (min-width: 768px) and (max-width: 991px) {
 
 .tp-pd-2-bottom-item span {
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 300;
   line-height: 1;
   margin-bottom: 10px;
   display: inline-block;
-  font-family: var(--tp-ff-inter);
+  font-family: var(--tp-ff-p);
   color: rgba(0, 0, 0, 0.7);
 }
 
@@ -21049,11 +21049,11 @@ only screen and (min-width: 576px) and (max-width: 767px),
 
 .tp-pd-2-overview-wrap p {
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 300;
   line-height: 26px;
   margin-bottom: 24px;
   color: rgba(0, 0, 0, 0.6);
-  font-family: var(--tp-ff-inter);
+  font-family: var(--tp-ff-p);
 }
 
 .tp-pd-2-overview-wrap ul {
@@ -21068,7 +21068,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
   padding-bottom: 20px;
   margin-left: 16px;
   color: var(--tp-common-black);
-  font-family: var(--tp-ff-inter);
+  font-family: var(--tp-ff-heading);
 }
 
 .tp-pd-2-overview-wrap ul li:not(:last-of-type) {
