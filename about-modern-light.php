@@ -494,7 +494,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           <img class="w-100" src="assets/img/service/cst/Granville.webp" alt="">
                                        </div>
                                        <div class="tp-service-cst-content tp-bg-common-white">
-                                          <h5 class="fw-600 fs-28 tp-ff-heading tp-text-common-black mb-15"><a class="underline-black" href="service-details-2-light.html">Granville</a></h5>
+                                          <h5 class="fw-600 fs-28 tp-ff-heading tp-text-common-black mb-15"><a class="underline-black" target="_blank" href="https://julliot.lycee.ac-normandie.fr/spip.php?rubrique284">Granville</a></h5>
                                           <p class="tp-service tp-ff-p fs-18 lh-140-per tp-text-common-black">C'est au bord de la Manche que mon Bac STI2D a fait naître mon intérêt pour le design.</p>
                                          
                                        </div>
@@ -506,7 +506,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           <img class="w-100" src="assets/img/service/cst/Saint-Lô.webp" alt="">
                                        </div>
                                        <div class="tp-service-cst-content tp-bg-common-white">
-                                          <h5 class="fw-600 fs-28 tp-ff-heading tp-text-common-black mb-15"><a class="underline-black" href="service-details-2-light.html">Saint-Lô</a></h5>
+                                          <h5 class="fw-600 fs-28 tp-ff-heading tp-text-common-black mb-15"><a class="underline-black" target="_blank" href="https://www.stlo.unicaen.fr/mmi/le-but-mmi/">Saint-Lô</a></h5>
                                           <p class="tp-service-cst tp-ff-p fs-18 lh-140-per tp-text-common-black">Ensuite c'est au cœur de la Manche que mon BUT MMI a été l'étape où cet intérêt est devenu un savoir-faire.</p>
                                          
                                        </div>
@@ -518,7 +518,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                           <img class="w-100" src="assets/img/service/cst/Caen.webp" alt="">
                                        </div>
                                        <div class="tp-service-cst-content tp-bg-common-white">
-                                          <h5 class="fw-600 fs-28 tp-ff-heading tp-text-common-black mb-15"><a class="underline-black" href="service-details-2-light.html">Caen</a></h5>
+                                          <h5 class="fw-600 fs-28 tp-ff-heading tp-text-common-black mb-15"><a class="underline-black" target="_blank" href="https://www.mydigitalschool.com/caen/mba-direction-artistique-digitale">Caen</a></h5>
                                           <p class="tp-service-cst tp-ff-p fs-18 lh-140-per tp-text-common-black">Puis c'est dans la capitale normande, mon Master DAD me permet d'affiner mon regard pour l'avenir.</p>
 
                                        </div>

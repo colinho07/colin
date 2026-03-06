@@ -214,49 +214,46 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="swiper tp-portfolio-creative-slider-active">    
                                 <div class="swiper-wrapper">
                                     
-                                    <!-- Slide Item -->
                                     <div class="swiper-slide">
-                                        <div class="tp-portfolio-creative-item bg-position" data-background="assets/img/portfolio/mix/sites_web.webp">
-                                            <div class="tp-portfolio-creative-content">
-                                                <span class="tp-portfolio-slicer-category">SERVICES</span>
-                                                <h2 class="tp-portfolio-slicer-title"><a href="portfolio-details-creative-light.html">Sites Web</a></h2>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- End Slide Item -->
-
-                                    <!-- Slide Item -->
-                                    <div class="swiper-slide">
-                                        <div class="tp-portfolio-creative-item bg-position" data-background="assets/img/portfolio/mix/identité_visuelle.webp">
-                                            <div class="tp-portfolio-creative-content">
-                                                <span class="tp-portfolio-slicer-category">SERVICES</span>
-                                                <h2 class="tp-portfolio-slicer-title"><a href="portfolio-details-creative-light.html">Identité Visuelle</a></h2>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- End Slide Item -->
-
-                                    <!-- Slide Item -->
-                                    <div class="swiper-slide">
-                                        <div class="tp-portfolio-creative-item bg-position" data-background="assets/img/portfolio/mix/montage_photo_vidéo.webp">
-                                            <div class="tp-portfolio-creative-content">
-                                                <span class="tp-portfolio-slicer-category">SERVICES</span>
-                                                <h2 class="tp-portfolio-slicer-title"><a href="portfolio-details-creative-light.html">Montage Photo & Vidéo</a></h2>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- End Slide Item -->
-
-                                    <!-- Slide Item -->
-                                    <div class="swiper-slide">
-                                        <div class="tp-portfolio-creative-item bg-position" data-background="assets/img/portfolio/mix/design_3D.webp">
-                                            <div class="tp-portfolio-creative-content">
-                                                <span class="tp-portfolio-slicer-category">SERVICES</span>
-                                                <h2 class="tp-portfolio-slicer-title"><a href="portfolio-details-creative-light.html">Design 3D</a></h2>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- End Slide Item -->
+    <a href="service-1-light.php" style="display: block; color: inherit; text-decoration: none;">
+        <div class="tp-portfolio-creative-item bg-position" data-background="assets/img/portfolio/mix/sites_web.webp">
+            <div class="tp-portfolio-creative-content">
+                <span class="tp-portfolio-slicer-category">SERVICES</span>
+                <h2 class="tp-portfolio-slicer-title">Sites Web</h2>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="swiper-slide">
+    <a href="service-2-light.php" style="display: block; color: inherit; text-decoration: none;">
+        <div class="tp-portfolio-creative-item bg-position" data-background="assets/img/portfolio/mix/identité_visuelle.webp">
+            <div class="tp-portfolio-creative-content">
+                <span class="tp-portfolio-slicer-category">SERVICES</span>
+                <h2 class="tp-portfolio-slicer-title">Identité Visuelle</h2>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="swiper-slide">
+    <a href="service-4-light.php" style="display: block; color: inherit; text-decoration: none;">
+        <div class="tp-portfolio-creative-item bg-position" data-background="assets/img/portfolio/mix/montage_photo_vidéo.webp">
+            <div class="tp-portfolio-creative-content">
+                <span class="tp-portfolio-slicer-category">SERVICES</span>
+                <h2 class="tp-portfolio-slicer-title">Montage Photo & Vidéo</h2>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="swiper-slide">
+    <a href="service-5-light.php" style="display: block; color: inherit; text-decoration: none;">
+        <div class="tp-portfolio-creative-item bg-position" data-background="assets/img/portfolio/mix/design_3D.webp">
+            <div class="tp-portfolio-creative-content">
+                <span class="tp-portfolio-slicer-category">SERVICES</span>
+                <h2 class="tp-portfolio-slicer-title">Design 3D</h2>
+            </div>
+        </div>
+    </a>
+</div>
 
                                 </div>
                             </div>
