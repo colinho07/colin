@@ -115,6 +115,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          </div>
          <div class="tp-offcanvas-menu d-xl-none">
             <nav></nav>
+            <ul class="submenu">
+               <li>
+                  <a href="contact-light.php">Contact</a>
+               </li>
+            </ul>
          </div>
          <div class="tp-offcanvas-gallery d-none d-xl-block">
             <div class="row gx-2">

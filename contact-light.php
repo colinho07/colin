@@ -153,7 +153,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <p> Votre projet mérite d'être sous les projecteurs. Remplissez le formulaire et commençons le spectacle. </p>
          </div>
          <div class="tp-offcanvas-menu d-xl-none">
-            <nav></nav>
+            <nav>
+            </nav>
+            <ul class="submenu">
+               <li>
+                  <a href="contact-light.php">Contact</a>
+               </li>
+            </ul>
+
          </div>
          <div class="tp-offcanvas-gallery d-none d-xl-block">
             <div class="row gx-2">
@@ -183,7 +190,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h3 class="tp-offcanvas-title sm">Informations</h3>
             <ul>
                <li><a href="mailto:noel_colin@icloud.com">noel_colin@icloud.com</a></li>
-               <li><a href="https://maps.app.goo.gl/czbgUHrdFS9Zgyva8">Basé dans la Manche</a></li>
+               <li><a href="https://maps.app.goo.gl/8nnoyhThXivQ32rV9">Basé dans la Manche</a></li>
             </ul>
          </div>
            <div class="tp-offcanvas-social">

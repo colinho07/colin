@@ -102,11 +102,16 @@
             </div>
          </div>
          <div class="tp-offcanvas-content d-none d-xl-block">
-            <h3 class="tp-offcanvas-title">Naviguer en confiance !!</h3>
+            <h3 class="tp-offcanvas-title">Naviguer en confiance !</h3>
             <p> Ici, c'est vous qui avez les clés. Découvrez comment vos données sont protégées et les règles simples qui encadrent votre visite sur mon portfolio. </p>
          </div>
          <div class="tp-offcanvas-menu d-xl-none">
             <nav></nav>
+            <ul class="submenu">
+               <li>
+                  <a href="contact-light.php">Contact</a>
+               </li>
+            </ul>
          </div>
          <div class="tp-offcanvas-gallery d-none d-xl-block">
             <div class="row gx-2">
@@ -136,7 +141,7 @@
             <h3 class="tp-offcanvas-title sm">Informations</h3>
             <ul>
                <li><a href="mailto:noel_colin@icloud.com">noel_colin@icloud.com</a></li>
-               <li><a href="https://maps.app.goo.gl/czbgUHrdFS9Zgyva8">Basé dans la Manche</a></li>
+               <li><a href="https://maps.app.goo.gl/8nnoyhThXivQ32rV9">Basé dans la Manche</a></li>
             </ul>
          </div>
            <div class="tp-offcanvas-social">

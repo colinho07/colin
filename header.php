@@ -94,11 +94,8 @@
                                     <li><a href="service-5-light.php">Design 3D</a></li>
                                  </ul>
                               </li>
-                             <li class="has-dropdown">
-                                 <a href="about-modern-light.php">À propos
-                                    
-                                 </a>
-                               
+                             <li>
+                                 <a href="about-modern-light.php">À propos</a>
                               </li>
                            </ul>
                         </nav>
