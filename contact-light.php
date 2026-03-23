@@ -361,7 +361,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <!-- tp-contact-map-area-start -->
             <div class="tp-contact-map p-relative fix">
                <div class="tp-contact-map-box">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10501.29232033099!2d-1.5834754625795437!3d48.852049310610035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x480c1ab7a7426253%3A0x40c14484fb97c70!2sDonville-les-Bains!5e0!3m2!1sfr!2sfr!4v1768485523327!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d668843.6386095633!2d-1.3448819!3d49.09290214999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x480b8bb8055935f7%3A0x30c14484fb528a0!2sManche!5e0!3m2!1sfr!2sfr!4v1772812743984!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                </div>
             </div>
             <!-- tp-contact-map-area-end -->
