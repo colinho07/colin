@@ -4,7 +4,7 @@
 <head>
    <meta charset="utf-8">
    <meta http-equiv="x-ua-compatible" content="ie=edge">
-   <title>ARTICLES - Mes 5 secrets pour créer une interface utilisateur intuitive.</title>
+   <title>ARTICLES - Ce que j'ai appris en mixant 2D et 3D sur un même projet</title>
    <meta name="description" content="">
    <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -33,19 +33,26 @@
       </svg>
       <div class="loader-wrap-heading">
          <div class="load-text">
-            <span>M</span>
-            <span>E</span>
-            <span>S</span>
-            <span>&nbsp;</span>
-            <span>5</span>
-            <span>&nbsp;</span>
-            <span>S</span>
-            <span>E</span>
             <span>C</span>
-            <span>R</span>
             <span>E</span>
-            <span>T</span>
+            <span>&nbsp;</span>
+            <span>Q</span>
+            <span>U</span>
+            <span>E</span>
+            <span>&nbsp;</span>
+            <span>J</span>
+            <span>'</span>
+            <span>A</span>
+            <span>I</span>
             <span>S</span>
+            <span>&nbsp;</span>
+            <span>A</span>
+            <span>P</span>
+            <span>P</span>
+            <span>R</span>
+            <span>I</span>
+            <span>S</span>
+         
          </div>
       </div>
    </div>
@@ -236,7 +243,7 @@
                   <div class="row pb-45">
                      <div class="col-lg-7">
                         <div class="tp-service-hero-left p-relative z-index-1 mb-40">
-                           <h2 class="fs-70 fs-lg-60 fs-xs-40">Mes 5 secrets pour créer une interface utilisateur intuitive</h2>
+                           <h2 class="fs-70 fs-lg-60 fs-xs-40">Ce que j'ai appris en mixant 2D et 3D sur un même projet.</h2>
                            <div class="tp-service-details-icon">
                               <img class="tp-live-anim-spin" src="assets/img/breadcrumb/icon.webp" alt="">
                            </div>
@@ -249,7 +256,7 @@
                      </div>
                      <div class="col-lg-5">
                         <div class="tp-service-hero-right mt-135">
-                           <p class="fs-20 lh-140-per">En tant que designer UI/UX, optimiser l'expérience client est ma priorité absolue. Concevoir une interface fluide demande d'allier une structure claire à une esthétique percutante pour capter immédiatement l'attention de vos utilisateurs cibles.</p>
+                           <p class="fs-20 lh-140-per">Fusionner la planéité de la 2D et la profondeur de la 3D est un défi passionnant pour un designer graphique. Cette approche hybride biseute les frontières traditionnelles de l'image pour offrir un impact visuel inédit et percutant.</p>
                         </div>
                      </div>
                   </div>
@@ -262,7 +269,7 @@
                               <ul>
                                  <li><a href="index.html">ACCUEIL</a></li>
                                  <li><span></span></li>
-                                 <li>UI/UX Design</li>
+                                 <li>Format et Impact</li>
                               </ul>
                            </div>
                         </div>
@@ -284,12 +291,12 @@
                   <div class="row">
                      <div class="col-lg-8">
                         <div class="tp-postbox-wrapper mr-110 mb-50">
-                           <h2 class="fs-50 fs-sm-40 fs-xs-30 lh-120-per mb-55">Les piliers d'une bonne ergonomie</h2>
+                           <h2 class="fs-50 fs-sm-40 fs-xs-30 lh-120-per mb-55">Les avantages de l'hybridation graphique</h2>
                            <div class="tp-blog-details-link-wrap mb-25">
                               <div class="tp-blog-details-dates mr-20 mb-10">
-                                 <span>UX/UI</span>
+                                 <span>Format et Impact</span>
                                  <span class="borders"></span>
-                                 <span>02 Mars, 2026</span>
+                                 <span>14 Août, 2026</span>
                               </div>
                               <div class="tp-blog-details-link mb-10">
                                  <a href="#">
@@ -312,46 +319,46 @@
                                  <ul>
                                     <li>
                                        <i class="fa-regular fa-circle-check"></i>
-                                       <p><b>Hiérarchie visuelle – </b> Guider le regard de l'utilisateur vers l'action principale.</p>
+                                       <p><b>Profondeur inédite – </b> Donner du relief à des compositions plates classiques.</p>
                                     </li>
                                     <li>
                                        <i class="fa-regular fa-circle-check"></i>
-                                       <p><b> Clarté immédiate – </b> Réduire la charge mentale pour fluidifier la navigation sur le site.</p>
+                                       <p><b> Contraste visuel – </b> Créer un choc esthétique fort qui marque les esprits.</p>
                                     </li>
                                     <li>
                                        <i class="fa-regular fa-circle-check"></i>
-                                       <p><b>Accessibilité épurée –</b>  Adapter le design d'interface à tous les types d'écrans.</p>
+                                       <p><b>Workflow optimisé –</b>  Allier la rapidité vectorielle à la flexibilité tridimensionnelle.</p>
                                     </li>
                                     <li>
                                        <i class="fa-regular fa-circle-check"></i>
-                                       <p><b> Boutons d'action – </b>  Positionner des CTAs stratégiques pour optimiser les conversions clients.</p>
+                                       <p><b>Identité singulière – </b> Démarquer l'image de marque grâce à un style unique.</p>
                                     </li>
                                  </ul>
                               </div>
                            </div>
                            <div class="tp-blog-details-adds mb-30">
-                              <h3 class="fw-500 fs-35 lh-130-per mb-50">Mes secrets majeurs de conception</h3>
+                              <h3 class="fw-500 fs-35 lh-130-per mb-50">Mon retour d'expérience technique</h3>
                               <div class="tp-blog-details-adds-item mb-50">
-                                 <h3 class="fw-500 fs-35 lh-130-per mb-25"><span class="d-inline-block mr-10">1.</span>Le wireframe</h3>
+                                 <h3 class="fw-500 fs-35 lh-130-per mb-25"><span class="d-inline-block mr-10">1.</span>L'harmonie des textures sous Blender</h3>
                                  <img class="w-100 mb-35" src="assets/img/blog/details/thumb.jpg" alt="">
-                                 <p class="fs-18 lh-150-per mb-20"><span class="fw-500 tp-text-common-nights">Figma</span> est la fondation essentielle de toute interface épurée. Il permet de structurer les zones de texte, de tester l'architecture de l'information et d'anticiper le parcours de navigation avant l'intégration graphique.</p>
-                                 <p class="fs-18 lh-150-per">Cette étape technique permet d'éviter les frictions UX majeures. Que ce soit pour un site web ou une application, un zonage validé garantit un design final à la fois cohérent et performant.</p>
+                                 <p class="fs-18 lh-150-per mb-20"><span class="fw-500 tp-text-common-nights">La modélisation 3D</span> ne doit pas dénaturer l'essence de la direction artistique globale. Sous Blender, j'ai configuré des rendus spécifiques pour intégrer parfaitement mes objets tridimensionnels à un univers initialement illustré en deux dimensions flat design.</p>
+                                 <p class="fs-18 lh-150-per">Ce traitement technique assure une cohérence visuelle parfaite entre les différents éléments. Il permet d'insuffler du volume tout en conservant le grain, le charme et l'authenticité d'un graphisme traditionnel propre aux réseaux sociaux.</p>
                               </div>
                               <div class="tp-blog-details-adds-item">
-                                 <h3 class="fw-500 fs-35 lh-130-per mb-25"><span class="d-inline-block mr-10">2.</span>Le Design System</h3>
+                                 <h3 class="fw-500 fs-35 lh-130-per mb-25"><span class="d-inline-block mr-10">2.</span>Le compositing dynamique avec After Effects</h3>
                                  <img class="w-100 mb-35" src="assets/img/blog/details/thumb-2.jpg" alt="">
-                                 <p class="fs-18 lh-150-per mb-20">Un bon design system <span class="fw-500 tp-text-common-nights">unifie</span> l'ensemble des composants graphiques de votre projet. Il rassemble les styles de boutons, les palettes de couleurs épurées et les règles typographiques pour assurer une cohérence visuelle parfaite.</p>
-                                 <p class="fs-18 lh-150-per mb-50">Cette harmonie graphique renforce la confiance de l'utilisateur et accélère le développement. Pour un rendu professionnel, standardiser ses éléments visuels reste le secret incontournable d'une interface réussie à long terme.</p>
+                                 <p class="fs-18 lh-150-per mb-20">Le véritable <span class="fw-500 tp-text-common-nights">secret</span> de cette transition réside dans l'étape cruciale du compositing de l'image. En important mes assets 3D dans After Effects, j'ai pu lier les mouvements de caméra aux éléments vectoriels 2D préconçus.</p>
+                                 <p class="fs-18 lh-150-per mb-50">L'ajout de textures globales, de jeux d'ombres et d'effets de flou unifie instantanément la scène numérique. Le résultat final offre une animation fluide, immersive et parfaitement optimisée pour booster l'engagement sur vos plateformes.</p>
                                  <h3 class="fw-500 fs-35 lh-130-per mb-15"><span class="d-inline-block mr-10">Conclusion</span></h3>
-                                 <p class="fs-18 lh-150-per">Créer une interface utilisateur intuitive demande de l'empathie, de la technique et de la rigueur. En appliquant ces secrets de conception, vous transformez un simple design visuel en un outil puissant, fluide et parfaitement optimisé pour vos utilisateurs.</p>
+                                 <p class="fs-18 lh-150-per">Mixer la 2D et la 3D exige de la technique, mais ouvre un horizon créatif infini. Cette méthode hybride transforme vos concepts en expériences visuelles percutantes, affirmant une identité de marque moderne, mémorable.</p>
                               </div>
                            </div>
                            <div class="tp-blog-details-tag-wrap">
                               <div class="tp-blog-details-tag mr-20 mb-10">
                                  <ul>
-                                    <li><a href="#">UI/UX Design</a></li>
-                                    <li><a href="#">Figma</a></li>
-                                    <li><a href="#">Ergonomie Web</a></li>
+                                    <li><a href="#">Design 2D</a></li>
+                                    <li><a href="#">Motion Design</a></li>
+                                    <li><a href="#">Design 3D</a></li>    
                                  </ul>
                               </div>
                               <div class="tp-blog-details-social mb-10">
