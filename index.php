@@ -927,7 +927,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-4 col-md-6">
                         <div class="tp-blog-item tp--hover-item tp-blog-pp-item mb-40 tp_fade_anim" data-delay=".4" data-fade-from="left" data-ease="bounce">
-                           <a href="blog-details-light.html" class="tp-blog-thumb d-block mb-30 p-relative fix d-inline-block">
+                           <a href="blog-details-light.php" class="tp-blog-thumb d-block mb-30 p-relative fix d-inline-block">
                               <div>
                                  <img class="w-100" src="assets/img/blog/pp/uxui.webp" alt="">
                               </div>
@@ -945,7 +945,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-4 col-md-6">
                         <div class="tp-blog-item tp--hover-item tp-blog-pp-item mb-40 tp_fade_anim" data-delay=".4" data-fade-from="bottom" data-ease="bounce">
-                           <a href="blog-details-light.html" class="tp-blog-thumb d-block mb-30 p-relative fix d-inline-block">
+                           <a href="blog-details-2-light.php" class="tp-blog-thumb d-block mb-30 p-relative fix d-inline-block">
                               <div>
                                  <img class="w-100" src="assets/img/blog/pp/outil.webp" alt="">
                               </div>
@@ -963,7 +963,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div class="col-lg-4 col-md-6">
                         <div class="tp-blog-item tp--hover-item tp-blog-pp-item mb-40 tp_fade_anim" data-delay=".4" data-fade-from="right" data-ease="bounce">
-                           <a href="blog-details-light.html" class="tp-blog-thumb d-block mb-30 p-relative fix d-inline-block">
+                           <a href="blog-details-light2.php" class="tp-blog-thumb d-block mb-30 p-relative fix d-inline-block">
                               <div>
                                  <img class="w-100" src="assets/img/blog/pp/3d.webp" alt="">
                               </div>
