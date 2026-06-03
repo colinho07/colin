@@ -938,7 +938,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  <span class="borders"></span>
                                  <span>02 Mars, 2026</span>
                               </div>
-                              <h3 class="fs-25 fs-xl-22 lh-140-per"><a class="underline-black" href="blog-details-light.html">
+                              <h3 class="fs-25 fs-xl-22 lh-140-per"><a class="underline-black" href="blog-details-light.php">
                                 Mes 5 secrets pour créer une interface utilisateur intuitive</a></h3>
                            </div>
                         </div>
@@ -956,7 +956,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  <span class="borders"></span>
                                  <span>07 Juin 2026</span>
                               </div>
-                              <h3 class="fs-25 fs-xl-22 lh-140-per"><a class="underline-black" href="blog-details-light.html">
+                              <h3 class="fs-25 fs-xl-22 lh-140-per"><a class="underline-black" href="blog-details-light2.php">
                                  L'outil que j'utilise pour donner <br> vie à mes visuels</a></h3>
                            </div>
                         </div>
@@ -974,7 +974,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  <span class="borders"></span>
                                  <span>14 Août, 2026</span>
                               </div>
-                              <h3 class="fs-25 fs-xl-22 lh-140-per"><a class="underline-black" href="blog-details-light.html"> 
+                              <h3 class="fs-25 fs-xl-22 lh-140-per"><a class="underline-black" href="blog-details-light2.php"> 
                                  Ce que j'ai appris en mixant 2D <br> et 3D sur un même projet</a></h3>
                            </div>
                         </div>
