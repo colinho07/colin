@@ -956,7 +956,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                  <span class="borders"></span>
                                  <span>07 Juin 2026</span>
                               </div>
-                              <h3 class="fs-25 fs-xl-22 lh-140-per"><a class="underline-black" href="blog-details-light2.php">
+                              <h3 class="fs-25 fs-xl-22 lh-140-per"><a class="underline-black" href="blog-details-2-light.php">
                                  L'outil que j'utilise pour donner <br> vie à mes visuels</a></h3>
                            </div>
                         </div>
