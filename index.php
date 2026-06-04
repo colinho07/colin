@@ -96,7 +96,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="tp-offcanvas">
          <div class="tp-offcanvas-top d-flex align-items-center justify-content-between">
             <div class="tp-offcanvas-logo">
-               <a href="index.html">
+               <a href="index.php">
                   <img data-width="150" src="assets/img/logo/logo.webp" alt="logo">
                </a>
             </div>
@@ -497,7 +497,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                              </div>
                              <div class="col-xxl-5 col-xl-6 col-lg-7 col-md-7">
                                  <div class="tp-service-pp-content">
-                                     <h4 class="tp-section-title text-uppercase tp-text-common-white fs-80 fs-xl-65 fs-md-40 fw-500 mb-55"><a class="tp_text_invert" href="service-details-light.html">Sites Web</a></h4>
+                                     <h4 class="tp-section-title text-uppercase tp-text-common-white fs-80 fs-xl-65 fs-md-40 fw-500 mb-55"><a class="tp_text_invert" href="service-1-light.php">Sites Web</a></h4>
                                      <p class="fs-18 tp-text-grey-2 mb-55">
                                        Vous aurez toujours besoin d'un site web pour asseoir votre présence digitale. C'est votre quartier général en ligne, indispensable pour rassurer vos prospects, crédibiliser votre activité et centraliser toute votre communication.
                                      </p>
@@ -541,7 +541,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                              </div>
                              <div class="col-xxl-5 col-xl-6 col-lg-7 col-md-7">
                                  <div class="tp-service-pp-content">
-                                     <h4 class="tp-section-title text-uppercase tp-text-common-white fs-80 fs-xl-65 fs-md-40 fw-500 mb-55"><a class="tp_text_invert" href="service-details-light.html">Identité Visuelle</a></h4>
+                                     <h4 class="tp-section-title text-uppercase tp-text-common-white fs-80 fs-xl-65 fs-md-40 fw-500 mb-55"><a class="tp_text_invert" href="service-2-light.php">Identité Visuelle</a></h4>
                                      <p class="fs-18 tp-text-grey-2 mb-55">
                                         Vous aurez toujours besoin d'une identité forte pour ne pas être "juste une entreprise parmi d'autres". C'est le visage de votre projet, essentiel pour marquer les esprits, inspirer confiance et vous démarquer de la concurrence.
                                      </p>
@@ -585,7 +585,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                              </div>
                              <div class="col-xxl-5 col-xl-6 col-lg-7 col-md-7">
                                  <div class="tp-service-pp-content">
-                                     <h4 class="tp-section-title text-uppercase tp-text-common-white fs-80 fs-xl-65 fs-md-40 fw-500 mb-55"><a class="tp_text_invert" href="service-details-light.html">Montage Photo/Vidéo</a></h4>
+                                     <h4 class="tp-section-title text-uppercase tp-text-common-white fs-80 fs-xl-65 fs-md-40 fw-500 mb-55"><a class="tp_text_invert" href="service-4-light.php">Montage Photo/Vidéo</a></h4>
                                      <p class="fs-18 tp-text-grey-2 mb-55">
                                         Vous aurez toujours besoin de contenu dynamique pour nourrir vos réseaux et captiver l'attention. Dans un monde saturé d'images, des photos soignées et des vidéos rythmées sont les seuls moyens de raconter votre histoire avec impact.
                                      </p>
@@ -629,7 +629,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                              </div>
                              <div class="col-xxl-5 col-xl-6 col-lg-7 col-md-7">
                                  <div class="tp-service-pp-content">
-                                     <h4 class="tp-section-title text-uppercase tp-text-common-white fs-80 fs-xl-65 fs-md-40 fw-500 mb-55"><a class="tp_text_invert" href="service-details-light.html">Design 3D</a></h4>
+                                     <h4 class="tp-section-title text-uppercase tp-text-common-white fs-80 fs-xl-65 fs-md-40 fw-500 mb-55"><a class="tp_text_invert" href="service-5-light.php">Design 3D</a></h4>
                                      <p class="fs-18 tp-text-grey-2 mb-55">
                                         Vous aurez toujours besoin de la 3D pour montrer ce qui n'existe pas encore ou sublimer le réel. C'est l'atout ultime pour visualiser un futur produit sous toutes ses coutures ou créer des visuels publicitaires impossibles à réaliser en photo classique.
                                      </p>
@@ -887,7 +887,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <div class="col-lg-12">
                         <div class="tp-skill-wd-bottom text-center mt-35 tp_fade_anim" data-delay=".5" data-fade-from="bottom" data-ease="bounce">
                            <p class="tp-skill-wd-para tp-ff-heading fw-500 fs-18 tp-text-common-white">Un projet en tête ?
-                              <a href="contact-light.html" class="ml-40 d-inline-block lh-0 tp-round-26 fs-15 text-uppercase ls-0 tp-btn-switch-animation tp-text-theme-primary tp-ff-heading fw-500">
+                              <a href="contact-light.php" class="ml-40 d-inline-block lh-0 tp-round-26 fs-15 text-uppercase ls-0 tp-btn-switch-animation tp-text-theme-primary tp-ff-heading fw-500">
                                  <span class="d-flex align-items-center justify-content-center">
                                     <span class="btn-text">Discutons-en</span>
                                     <span class="btn-icon">

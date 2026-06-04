@@ -61,10 +61,10 @@
                            <div class="tp-footer-pp-widget mb-40 tp_fade_anim" data-delay=".5">
                               <h3 class="tp-footer-widget-title fw-500 fs-25 mb-10 text-uppercase tp-text-common-white">Accès rapide</h3>
                               <ul>
-                                 <li><a href="#">Portfolio</a></li>
-                                 <li><a href="#">Services</a></li>
-                                 <li><a href="#">À Propos</a></li>
-                                 <li><a href="#">Contact</a></li>
+                                 <li><a href="portfolio-interactive-with-hover.php">PORTFOLIO</a></li>
+                                 <li><a href="portfolio-creative-slider-light.php">SERVICES</a></li>
+                                 <li><a href="about-modern-light.php">À PROPOS</a></li>
+                                 <li><a href="contact-light.php">CONTACT</a></li>
                               </ul>
                            </div>
                         </div>

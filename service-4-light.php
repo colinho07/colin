@@ -251,7 +251,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               <ul>
                                  <li><a href="index.html">SERVICES</a></li>
                                  <li><span></span></li>
-                                 <li>Montage Photo/Vidéo</li>
+                                 <li>Montage Photo & Vidéo</li>
                               </ul>
                            </div>
                         </div>
