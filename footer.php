@@ -53,7 +53,7 @@
                         <div class="col-lg-3 col-md-6 col-sm-6">
                            <div class="tp-footer-widget mb-45 tp_fade_anim" data-delay=".3">
                               <div class="tp-footer-logo">
-                                 <a href="index.html"><img data-width="150" src="assets/img/logo/logo-white.webp" alt=""></a>
+                                 <a href="index.html"><img data-width="50" src="assets/img/logo/logo-white.svg" alt=""></a>
                               </div>
                            </div>
                         </div>

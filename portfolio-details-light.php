@@ -104,7 +104,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="col-lg-12">
                <div class="tp-search-top d-flex justify-content-between align-items-center">
                   <div class="cm-search-logo">
-                     <a href="index.html"><img data-width="150" src="assets/img/logo/logo.webp" alt="logo"></a>
+                     <a href="index.html"><img data-width="50" src="assets/img/logo/logo.svg" alt="logo"></a>
                   </div>
                   <button class="tp-search-close">
                      <i class="fa-light fa-xmark"></i>
@@ -137,7 +137,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          <div class="tp-offcanvas-top d-flex align-items-center justify-content-between">
             <div class="tp-offcanvas-logo">
                <a href="index.html">
-                  <img data-width="150" src="assets/img/logo/logo.webp" alt="logo">
+                  <img data-width="50" src="assets/img/logo/logo.svg" alt="logo">
                </a>
             </div>
             <div class="tp-offcanvas-close-btn">

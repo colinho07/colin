@@ -60,8 +60,8 @@
                <div class="tp-offcanvas-2-left-wrap d-flex justify-content-between align-items-center">
                   <div class="tp-offcanvas-2-logo">
                      <a href="index.html">
-                        <img class="logo-1" data-width="150" src="assets/img/logo/logo-white-2.webp" alt="">
-                        <img class="logo-2" data-width="150" src="assets/img/logo/logo-black.webp" alt="">
+                        <img class="logo-1" data-width="50" src="assets/img/logo/logo-white-2.webp" alt="">
+                        <img class="logo-2" data-width="50" src="assets/img/logo/logo-black.webp" alt="">
                      </a>
                   </div>
                   <div class="tp-offcanvas-2-close d-md-none text-end">
@@ -151,7 +151,7 @@
                         <div class="tp-header-slider-wrapper d-flex align-items-center justify-content-between">
                             <div class="tp-header-slider-left">
                                 <div class="tp-header-logo">
-                                    <a href="index.html"><img data-width="150" src="assets/img/logo/logo-black-2.webp" alt=""></a>
+                                    <a href="index.html"><img data-width="50" src="assets/img/logo/logo-black-2.svg" alt=""></a>
                                 </div>
                             </div>
                             <div class="tp-header-slider-right right-white d-flex align-items-center">

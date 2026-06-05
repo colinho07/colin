@@ -108,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          <div class="tp-offcanvas-top d-flex align-items-center justify-content-between">
             <div class="tp-offcanvas-logo">
                <a href="index.html">
-                  <img data-width="150" src="assets/img/logo/logo.webp" alt="logo">
+                  <img data-width="50" src="assets/img/logo/logo.svg" alt="logo">
                </a>
             </div>
             <div class="tp-offcanvas-close-btn">
@@ -691,7 +691,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               <div class="swiper-slide">
                                  <div class="tp-brand-item">
                                     <a href="#">
-                                       <img src="assets/img/brands/logo.webp" alt="">
+                                       <img src="assets/img/brands/logo.svg" alt="">
                                     </a>
                                  </div>
                               </div>

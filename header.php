@@ -7,7 +7,7 @@
                <div class="row align-items-center">
                   <div class="col-xxl-3 col-xl-2 col-lg-4 col-md-4 col-sm-4 col-6">
                      <div class="tp-header-logo">
-                        <a href="index.php"><img data-width="150" src="assets/img/logo/logo-black-2.webp" alt="logo"></a>
+                        <a href="index.php"><img data-width="50" src="assets/img/logo/logo-black-2.svg" alt="logo"></a>
                      </div>
                   </div>
                   <div class="col-xxl-6 col-xl-7 d-none d-xl-block">
